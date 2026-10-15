@@ -1,0 +1,62 @@
+{
+  "bot_st_msp": {
+    "dateRange": "2025-12-01 a 2026-10-15",
+    "records": "100,614",
+    "time": "02:01:48"
+  },
+  "bot_st_fracttal": {
+    "dateRange": "2025-12-01 a 2026-10-15",
+    "records": "0",
+    "time": "01:52:04"
+  },
+  "bot_ot_fracttal": {
+    "dateRange": "2025-12-01 a 2026-10-15",
+    "records": "42,051",
+    "time": "02:07:59"
+  },
+  "bot_invitaciones_msp": {
+    "dateRange": "2025-12-01 a 2026-10-15",
+    "records": "87,590",
+    "time": "02:13:57"
+  },
+  "bot_clima_spsa": {
+    "dateRange": "2025-10-01 a 2026-09-28",
+    "records": "4,340",
+    "time": "13:29:04"
+  },
+  "bot_senamhi_spsa": {
+    "dateRange": "2025-06-01 a 2026-10-13",
+    "records": "5960",
+    "time": "18:53:17"
+  },
+  "bot_pme_spsa": {
+    "dateRange": "2025-06-01 a 2026-08-05 10:24:27",
+    "records": "0",
+    "time": "16:22:35"
+  },
+  "bot_pme_hvac": {
+    "dateRange": "N/A a 2026-10-15",
+    "records": "0",
+    "time": "18:16:00"
+  },
+  "bot_pme_iluminacion": {
+    "dateRange": "N/A a 2026-10-01",
+    "records": "11811",
+    "time": "17:05:18"
+  },
+  "bot_pme_frio_alimentario": {
+    "dateRange": "N/A a 2026-10-01",
+    "records": "10017",
+    "time": "17:12:22"
+  },
+  "bot_pme_general": {
+    "dateRange": "N/A a 2026-10-01",
+    "records": "11379",
+    "time": "17:19:43"
+  },
+  "bot_auditoria_en": {
+    "dateRange": "N/A",
+    "records": "0",
+    "time": "16:15:46"
+  }
+}

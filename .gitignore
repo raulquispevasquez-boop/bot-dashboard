@@ -1,0 +1,39 @@
+# Dependencias y compilación
+node_modules/
+frontend/dist/
+frontend/node_modules/
+backend/node_modules/
+
+# Binarios y entornos pesados
+python_env/
+python.tar.gz
+tools/*.exe
+tools/cloudflared.exe
+
+# Configuración sensible y credenciales locales
+.env
+backend/.env
+backend/auth_config.json
+backend/bots/itlus_fractal_uploads_tmp/
+backend/bots/outlook_profile/
+backend/tunnel_config.json
+
+# Cachés locales grandes y archivos de historial
+backend/bots/cache_activos_fracttal.json
+backend/senamhi_history.json
+backend/clima_history.json
+backend/*_history.json
+*_history.json
+backend/bots/__pycache__/
+backend/__pycache__/
+__pycache__/
+
+# Carpetas de datos y respaldos antiguos
+Data bot complemento/
+bot ejemplo climatico senahmi/
+bots fracttal-msp/
+
+# Carpetas de desarrollo y scratch
+.claude/
+.gemini/
+scratch/

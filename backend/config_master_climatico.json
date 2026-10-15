@@ -1,0 +1,11 @@
+{
+  "modo_auto": "INTERVALO",
+  "hora1": "06:00",
+  "hora2": "12:00",
+  "hora3": "18:00",
+  "intervalo_val": "8",
+  "intervalo_uni": "horas",
+  "ventana_movil_dias": 7,
+  "dias_prediccion": 7,
+  "timeout_inactividad_min": 10
+}

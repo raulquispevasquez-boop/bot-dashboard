@@ -1,0 +1,28 @@
+{
+  "f_ini": "2026-09-25",
+  "f_fin": "2026-10-13",
+  "ventana_movil_dias": 7,
+  "dias_prediccion": 7,
+  "modo_auto": "INTERVALO",
+  "intervalo_val": "24",
+  "intervalo_uni": "horas",
+  "hora1": "06:00",
+  "hora2": "12:00",
+  "hora3": "18:00",
+  "pais": "Peru",
+  "variables_activas": [
+    "wind_speed_10m_max",
+    "shortwave_radiation_sum",
+    "apparent_temperature_max",
+    "apparent_temperature_min",
+    "precipitation_hours",
+    "rain_sum",
+    "et0_fao_evapotranspiration",
+    "weather_code"
+  ],
+  "carpeta_drive": "G:\\Mi unidad\\1.APLICACIONES\\Data variables climaticas",
+  "exportar_excel": true,
+  "delay_seg": 0.2,
+  "fec_ini": "2025-10-01",
+  "fec_fin": "2026-08-15 14:04:10"
+}

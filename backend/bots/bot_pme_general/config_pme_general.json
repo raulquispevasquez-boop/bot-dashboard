@@ -1,0 +1,23 @@
+{
+  "dias_historico": 15,
+  "agregacion": "hora",
+  "alerta_consumo": {
+    "activo": true,
+    "hora_inicio": "23:00",
+    "hora_fin": "06:00",
+    "linea_base_kwh": 1,
+    "precio_kwh": 0,
+    "adjuntar_excel": true,
+    "umbral_critico_soles_dia": 0,
+    "umbral_medio_soles_dia": 0,
+    "destinatarios": "",
+    "copia": "",
+    "cuerpo_mensaje": "🔥 CONSUMO FUERA DE HORARIO [{servicio}]\nSede: {sede}\nFecha: {fecha}  Hora pico: {hora}\nConsumo pico: {valor} kWh (línea base: {linea_base} kWh)\nConsumo total en el rango: {total_kwh} kWh\nCosto estimado: S/ {costo} (S/ {precio_kwh} por kWh)\nRango vigilado: {hora_inicio} a {hora_fin}\n(Detalle hora por hora adjunto en Excel)",
+    "asunto": "Alerta Consumo fuera de horario - General",
+    "nombre_remitente": "Alertas General PME",
+    "descripcion_solicitud_servicio": "Se requiere revisar y configurar el encendido de los equipos de General ya que existe operación fuera del horario de consumo. En caso de no existir un sistema de control de encendidos, se solicita cotizarlo.",
+    "descripcion_solicitud_medidor": "Se requiere revisar el medidor de energía {medidor_nombre} ya que no está enviando datos desde {ultima_fecha_con_datos}. Verificar conexión/comunicación del equipo; podría requerir mantenimiento o reemplazo."
+  },
+  "hora_punta_inicio": "18:00",
+  "hora_punta_fin": "23:00"
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bot_st_msp",
+    "name": "Bot ST MSP",
+    "command": "E:\\bot-dashboard\\python_env\\python\\python.exe",
+    "args": ["-u", "bots/bot_st_msp/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_st_fracttal",
+    "name": "Bot ST Fracttal",
+    "command": "E:\\bot-dashboard\\python_env\\python\\python.exe",
+    "args": ["-u", "bots/bot_st_fracttal/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_ot_fracttal",
+    "name": "Bot OT Fracttal",
+    "command": "E:\\bot-dashboard\\python_env\\python\\python.exe",
+    "args": ["-u", "bots/bot_ot_fracttal/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_invitaciones_msp",
+    "name": "Bot Invitaciones MSP",
+    "command": "E:\\bot-dashboard\\python_env\\python\\python.exe",
+    "args": ["-u", "bots/bot_invitaciones_msp/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_clima_spsa",
+    "name": "SPSA - Bot Clima V1.0",
+    "command": "E:\\bot-dashboard\\python_env\\python\\python.exe",
+    "args": ["-u", "bots/bot_clima_spsa/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_senamhi_spsa",
+    "name": "SPSA - Bot SENAMHI V1.0",
+    "command": "E:\\bot-dashboard\\python_env\\python311\\python.exe",
+    "args": ["-u", "bots/bot_senamhi_spsa/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_pme_spsa",
+    "name": "SPSA - Bot Power Monitoring Expert V1.0",
+    "command": "E:\\bot-dashboard\\python_env\\python311\\python.exe",
+    "args": ["-u", "bots/bot_pme_spsa/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_pme_hvac",
+    "name": "PME - Bot Consolidado HVAC",
+    "command": "E:\\bot-dashboard\\python_env\\python311\\python.exe",
+    "args": ["-u", "bots/bot_pme_hvac/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_pme_iluminacion",
+    "name": "PME - Bot Consolidado Iluminación",
+    "command": "E:\\bot-dashboard\\python_env\\python311\\python.exe",
+    "args": ["-u", "bots/bot_pme_iluminacion/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_pme_frio_alimentario",
+    "name": "PME - Bot Consolidado Frío Alimentario",
+    "command": "E:\\bot-dashboard\\python_env\\python311\\python.exe",
+    "args": ["-u", "bots/bot_pme_frio_alimentario/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_pme_general",
+    "name": "PME - Bot Consolidado General",
+    "command": "E:\\bot-dashboard\\python_env\\python311\\python.exe",
+    "args": ["-u", "bots/bot_pme_general/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  },
+  {
+    "id": "bot_auditoria_en",
+    "name": "SPSA - Bot Auditoría Energética",
+    "command": "E:\\bot-dashboard\\python_env\\python\\python.exe",
+    "args": ["-u", "bots/bot_auditoria_en/wrapper.py"],
+    "cwd": "E:\\bot-dashboard",
+    "status": "stopped"
+  }
+]

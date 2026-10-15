@@ -1,0 +1,31 @@
+{
+  "url": "https://10.30.4.124/Web/Auth?ReturnUrl=%2fWeb%2f#Trends/",
+  "username": "Supervisor",
+  "password": "Super123$123",
+  "telegram_bot_token": "8911464762:AAE5EC5jM0Hb3g1X9H-_86IB1qDr-ABjOl0",
+  "telegram_chat_id": "8422183982",
+  "gmail_remitente": "gestion.energia.pme@gmail.com",
+  "gmail_app_password": "faxqwtqesvedrwos",
+  "email_destinatario": "raul.quispe@spsa.pe",
+  "email_copia": "mantenimiento.pme@spsa.pe",
+  "f_ini": "2026-07-29",
+  "f_fin": "2026-08-05",
+  "hora_ini": "00:00",
+  "hora_fin": "23:59",
+  "rango_predefinido": "7_DIAS",
+  "servicios_seleccionados": [
+    "HVAC",
+    "Alumbrado",
+    "Frio",
+    "Total"
+  ],
+  "sedes_seleccionadas": [],
+  "timeout_seg": 30,
+  "modo_auto": "INTERVALO",
+  "fec_ini": "2025-12-01",
+  "fec_fin": "2026-08-15 14:04:10",
+  "telegram_comandos_activo": true,
+  "fracttal_user": "raul.quispe@spsa.pe",
+  "fracttal_pass": "57d28fef1a743f7f0d1403f3dc799804",
+  "fracttal_id_company": "2635"
+}

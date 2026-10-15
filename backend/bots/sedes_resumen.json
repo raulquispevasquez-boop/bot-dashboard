@@ -1,0 +1,2577 @@
+[
+  {
+    "id_location": 21258579,
+    "code": "A124-1-24107007",
+    "description": "AREQUIPA 2 - MK - ECO { A124-1-24107007 }"
+  },
+  {
+    "id_location": 21258580,
+    "code": "A124-1-24107004",
+    "description": "ZARATE 2 - MK - ECO { A124-1-24107004 }"
+  },
+  {
+    "id_location": 21258581,
+    "code": "A124-1-24107026",
+    "description": "CALLAO - MK { A124-1-24107026 }"
+  },
+  {
+    "id_location": 21258582,
+    "code": "A124-1-24107025",
+    "description": "INDEPENDENCIA - MK { A124-1-24107025 }"
+  },
+  {
+    "id_location": 21258583,
+    "code": "A124-1-24107034",
+    "description": "COMAS - MK { A124-1-24107034 }"
+  },
+  {
+    "id_location": 21258584,
+    "code": "A124-1-24107035",
+    "description": "VILLA EL SALVADOR - MK { A124-1-24107035 }"
+  },
+  {
+    "id_location": 21258585,
+    "code": "A124-1-24107028",
+    "description": "SURCO - MK { A124-1-24107028 }"
+  },
+  {
+    "id_location": 21258586,
+    "code": "A124-1-24107031",
+    "description": "ZARATE - MK { A124-1-24107031 }"
+  },
+  {
+    "id_location": 21258587,
+    "code": "A124-1-24107027",
+    "description": "SANTA ANITA - MK { A124-1-24107027 }"
+  },
+  {
+    "id_location": 21258588,
+    "code": "A124-1-24107029",
+    "description": "AREQUIPA - MK { A124-1-24107029 }"
+  },
+  {
+    "id_location": 21258589,
+    "code": "A124-1-24107014",
+    "description": "CHORRILLOS - MK { A124-1-24107014 }"
+  },
+  {
+    "id_location": 21258590,
+    "code": "A124-1-24107019",
+    "description": "CERCADO - MK { A124-1-24107019 }"
+  },
+  {
+    "id_location": 21258592,
+    "code": "A124-1-24107005",
+    "description": "CUSCO - MK - ECO { A124-1-24107005 }"
+  },
+  {
+    "id_location": 21258593,
+    "code": "A124-1-24107008",
+    "description": "SULLANA - MK - ECO { A124-1-24107008 }"
+  },
+  {
+    "id_location": 21258594,
+    "code": "A124-1-24107006",
+    "description": "PIURA 2 - MK - ECO { A124-1-24107006 }"
+  },
+  {
+    "id_location": 21258595,
+    "code": "A124-1-24107038",
+    "description": "ICA - MK { A124-1-24107038 }"
+  },
+  {
+    "id_location": 21258596,
+    "code": "A124-1-24107037",
+    "description": "CHINCHA - MK { A124-1-24107037 }"
+  },
+  {
+    "id_location": 21258597,
+    "code": "A124-1-24107030",
+    "description": "CHICLAYO - MK { A124-1-24107030 }"
+  },
+  {
+    "id_location": 21258598,
+    "code": "A124-1-24107033",
+    "description": "PIURA - MK { A124-1-24107033 }"
+  },
+  {
+    "id_location": 21258599,
+    "code": "A124-1-24107032",
+    "description": "TRUJILLO - MK { A124-1-24107032 }"
+  },
+  {
+    "id_location": 21258600,
+    "code": "A124-1-24107040",
+    "description": "TRUJILLO 2 - MK { A124-1-24107040 }"
+  },
+  {
+    "id_location": 21258601,
+    "code": "A124-1-24107036",
+    "description": "HUANCAYO - MK { A124-1-24107036 }"
+  },
+  {
+    "id_location": 21258602,
+    "code": "A124-1-24107039",
+    "description": "HUACHO - MK { A124-1-24107039 }"
+  },
+  {
+    "id_location": 21819258,
+    "code": "A125-1-25103064",
+    "description": "ART EXPRESS - PVS { A125-1-25103064 }"
+  },
+  {
+    "id_location": 21819259,
+    "code": "A125-1-25101001",
+    "description": "BOLOGNESI - PVE { A125-1-25101001 }"
+  },
+  {
+    "id_location": 21819260,
+    "code": "A125-1-25103026",
+    "description": "CHORRILLOS IGLESIAS - PVS { A125-1-25103026 }"
+  },
+  {
+    "id_location": 21819261,
+    "code": "A125-1-25103043",
+    "description": "CINE RIMAC - PVS { A125-1-25103043 }"
+  },
+  {
+    "id_location": 21819262,
+    "code": "A125-1-25101004",
+    "description": "JIRON DE LA UNION - PVE { A125-1-25101004 }"
+  },
+  {
+    "id_location": 21819263,
+    "code": "A125-1-25103051",
+    "description": "LA PAZ - PVS { A125-1-25103051 }"
+  },
+  {
+    "id_location": 21819264,
+    "code": "A125-1-25103040",
+    "description": "LA PERLA - PVS { A125-1-25103040 }"
+  },
+  {
+    "id_location": 21819265,
+    "code": "A125-1-25103053",
+    "description": "LA VICTORIA PVS { A125-1-25103053 }"
+  },
+  {
+    "id_location": 21819266,
+    "code": "A125-1-25103027",
+    "description": "MAGDALENA - PVS { A125-1-25103027 }"
+  },
+  {
+    "id_location": 21819267,
+    "code": "A125-1-25103028",
+    "description": "PROCERES - PVS { A125-1-25103028 }"
+  },
+  {
+    "id_location": 21819268,
+    "code": "A125-1-25101002",
+    "description": "SANTA CRUZ - PVE { A125-1-25101002 }"
+  },
+  {
+    "id_location": 21819269,
+    "code": "A125-1-25103052",
+    "description": "VILLA MARINA - PVS { A125-1-25103052 }"
+  },
+  {
+    "id_location": 21819271,
+    "code": "A125-1-25102024",
+    "description": "ALFONSO UGARTE - PVH { A125-1-25102024 }"
+  },
+  {
+    "id_location": 21819272,
+    "code": "A125-1-25103006",
+    "description": "AYACUCHO - PVS { A125-1-25103006 }"
+  },
+  {
+    "id_location": 21819273,
+    "code": "A125-1-25102009",
+    "description": "BOLICHERA - PVH { A125-1-25102009 }"
+  },
+  {
+    "id_location": 21819274,
+    "code": "A125-1-25102004",
+    "description": "BRASIL - PVH { A125-1-25102004 }"
+  },
+  {
+    "id_location": 21819275,
+    "code": "A125-1-25102065",
+    "description": "BRENA - PVH { A125-1-25102065 }"
+  },
+  {
+    "id_location": 21819276,
+    "code": "A125-1-25102038",
+    "description": "CENTRO CIVICO - PVH { A125-1-25102038 }"
+  },
+  {
+    "id_location": 21819277,
+    "code": "A125-1-25102037",
+    "description": "GUARDIA CIVIL - PVH { A125-1-25102037 }"
+  },
+  {
+    "id_location": 21819278,
+    "code": "A125-1-25103008",
+    "description": "GRIFO KIO - PVS { A125-1-25103008 }"
+  },
+  {
+    "id_location": 21819279,
+    "code": "A125-1-25102089",
+    "description": "LA CURVA - PVH { A125-1-25102089 }"
+  },
+  {
+    "id_location": 21819280,
+    "code": "A125-1-25102078",
+    "description": "LURIN - PVH { A125-1-25102078 }"
+  },
+  {
+    "id_location": 21819281,
+    "code": "A125-1-25103002",
+    "description": "MERCADERES - PVS { A125-1-25103002 }"
+  },
+  {
+    "id_location": 21819282,
+    "code": "A125-1-25102016",
+    "description": "PRIMAVERA - PVH { A125-1-25102016 }"
+  },
+  {
+    "id_location": 21819283,
+    "code": "A125-1-25102063",
+    "description": "RIMAC ALCAZAR - PVH { A125-1-25102063 }"
+  },
+  {
+    "id_location": 21819284,
+    "code": "A125-1-25102099",
+    "description": "SUCRE - PVH { A125-1-25102099 }"
+  },
+  {
+    "id_location": 21819285,
+    "code": "A125-1-25103018",
+    "description": "VILLA EL SALVADOR - PVS { A125-1-25103018 }"
+  },
+  {
+    "id_location": 21819287,
+    "code": "A125-1-25102122",
+    "description": "CHICLAYO MALL - PVE { A125-1-25102122 }"
+  },
+  {
+    "id_location": 21819288,
+    "code": "A125-1-25102018",
+    "description": "CHICLAYO - PVH { A125-1-25102018 }"
+  },
+  {
+    "id_location": 21819289,
+    "code": "A125-1-25103025",
+    "description": "MULTIPLAZA - PVS { A125-1-25103025 }"
+  },
+  {
+    "id_location": 21819290,
+    "code": "A125-1-25102075",
+    "description": "PAITA - PVH { A125-1-25102075 }"
+  },
+  {
+    "id_location": 21819291,
+    "code": "A125-1-25102046",
+    "description": "PIURA - PVH { A125-1-25102046 }"
+  },
+  {
+    "id_location": 21819292,
+    "code": "A125-1-25102128",
+    "description": "SULLANA - PVH { A125-1-25102128 }"
+  },
+  {
+    "id_location": 21819293,
+    "code": "A125-1-25102052",
+    "description": "TALARA CENTRO - PVH { A125-1-25102052 }"
+  },
+  {
+    "id_location": 21819294,
+    "code": "A125-1-25102098",
+    "description": "TALARA MALL - PVH { A125-1-25102098 }"
+  },
+  {
+    "id_location": 21819297,
+    "code": "A125-1-25102008",
+    "description": "ATE - PVH { A125-1-25102008 }"
+  },
+  {
+    "id_location": 21819298,
+    "code": "A125-1-25102020",
+    "description": "CERES - PVH { A125-1-25102020 }"
+  },
+  {
+    "id_location": 21819299,
+    "code": "A125-1-25102014",
+    "description": "COMAS - PVH { A125-1-25102014 }"
+  },
+  {
+    "id_location": 21819300,
+    "code": "A125-1-25102023",
+    "description": "IZAGUIRRE - PVH { A125-1-25102023 }"
+  },
+  {
+    "id_location": 21819301,
+    "code": "A125-1-25102013",
+    "description": "LOS OLIVOS - PVH { A125-1-25102013 }"
+  },
+  {
+    "id_location": 21819302,
+    "code": "A125-1-25102021",
+    "description": "PRO - PVH { A125-1-25102021 }"
+  },
+  {
+    "id_location": 21819303,
+    "code": "A125-1-25102026",
+    "description": "PUENTE PIEDRA - PVH { A125-1-25102026 }"
+  },
+  {
+    "id_location": 21819304,
+    "code": "A125-1-25103001",
+    "description": "SALAMANCA - PVS { A125-1-25103001 }"
+  },
+  {
+    "id_location": 21819305,
+    "code": "A125-1-25102025",
+    "description": "UNIVERSITARIA - PVH { A125-1-25102025 }"
+  },
+  {
+    "id_location": 21819306,
+    "code": "A125-1-25102088",
+    "description": "VENTANILLA - PVH { A125-1-25102088 }"
+  },
+  {
+    "id_location": 21819307,
+    "code": "A125-1-25102056",
+    "description": "CAJAMARCA - PVH { A125-1-25102056 }"
+  },
+  {
+    "id_location": 21819308,
+    "code": "A125-1-25102044",
+    "description": "JULIACA - PVH { A125-1-25102044 }"
+  },
+  {
+    "id_location": 21819309,
+    "code": "A125-1-25102050",
+    "description": "CHINCHA - PVH { A125-1-25102050 }"
+  },
+  {
+    "id_location": 21819310,
+    "code": "A122-1-2202001",
+    "description": "HUANUCO - PVO { A122-1-2202001 }"
+  },
+  {
+    "id_location": 21819311,
+    "code": "A125-1-25102034",
+    "description": "ICA - PVH { A125-1-25102034 }"
+  },
+  {
+    "id_location": 21819312,
+    "code": "A122-1-2202002",
+    "description": "JAEN - PVO { A122-1-2202002 }"
+  },
+  {
+    "id_location": 21819313,
+    "code": "A125-1-25102086",
+    "description": "PISCO - PVH { A125-1-25102086 }"
+  },
+  {
+    "id_location": 21819314,
+    "code": "A122-1-2202003",
+    "description": "PUCALLPA - PVO { A122-1-2202003 }"
+  },
+  {
+    "id_location": 21819315,
+    "code": "A122-1-2202004",
+    "description": "TARAPOTO - PVO { A122-1-2202004 }"
+  },
+  {
+    "id_location": 21819317,
+    "code": "A125-1-25103055",
+    "description": "CHACLACAYO - PVS { A125-1-25103055 }"
+  },
+  {
+    "id_location": 21819318,
+    "code": "A125-1-25102042",
+    "description": "CHOSICA - PVH { A125-1-25102042 }"
+  },
+  {
+    "id_location": 21819319,
+    "code": "A125-1-25102100",
+    "description": "PURUCHUCO - PVH { A125-1-25102100 }"
+  },
+  {
+    "id_location": 21819320,
+    "code": "A125-1-25102029",
+    "description": "SANTA CLARA - PVH { A125-1-25102029 }"
+  },
+  {
+    "id_location": 21819321,
+    "code": "A125-1-25102055",
+    "description": "ACHO - PVH { A125-1-25102055 }"
+  },
+  {
+    "id_location": 21819322,
+    "code": "A125-1-25102006",
+    "description": "CALLAO - PVH { A125-1-25102006 }"
+  },
+  {
+    "id_location": 21819323,
+    "code": "A125-1-25102039",
+    "description": "COLONIAL - PVH { A125-1-25102039 }"
+  },
+  {
+    "id_location": 21819324,
+    "code": "A125-1-25102035",
+    "description": "EL AGUSTINO - PVH { A125-1-25102035 }"
+  },
+  {
+    "id_location": 21819325,
+    "code": "A125-1-25102093",
+    "description": "GRIFO MEXICO - PVH { A125-1-25102093 }"
+  },
+  {
+    "id_location": 21819326,
+    "code": "A125-1-25103062",
+    "description": "SAN JORGE - PVS { A125-1-25103062 }"
+  },
+  {
+    "id_location": 21819327,
+    "code": "A125-1-25102030",
+    "description": "SJ LURIGANCHO - PVH { A125-1-25102030 }"
+  },
+  {
+    "id_location": 21819328,
+    "code": "A125-1-25103017",
+    "description": "EL TAMBO HUANCAYO - PVS { A125-1-25103017 }"
+  },
+  {
+    "id_location": 21819329,
+    "code": "A125-1-25102022",
+    "description": "HUANCAYO - PVH { A125-1-25102022 }"
+  },
+  {
+    "id_location": 21819330,
+    "code": "A125-1-25102102",
+    "description": "ILO - PVH { A125-1-25102102 }"
+  },
+  {
+    "id_location": 21819331,
+    "code": "A125-1-25102097",
+    "description": "MOQUEGUA - PVH { A125-1-25102097 }"
+  },
+  {
+    "id_location": 21819332,
+    "code": "A125-1-25102043",
+    "description": "TACNA - PVH { A125-1-25102043 }"
+  },
+  {
+    "id_location": 21819335,
+    "code": "A125-1-25103011",
+    "description": "ALAMEDA SUR - PVS { A125-1-25103011 }"
+  },
+  {
+    "id_location": 21819336,
+    "code": "A125-1-25103061",
+    "description": "CAMINOS DEL INCA - PVS { A125-1-25103061 }"
+  },
+  {
+    "id_location": 21819337,
+    "code": "A125-1-25102005",
+    "description": "CORTIJO - PVH { A125-1-25102005 }"
+  },
+  {
+    "id_location": 21819338,
+    "code": "A125-1-25103007",
+    "description": "DASSO - PVS { A125-1-25103007 }"
+  },
+  {
+    "id_location": 21819339,
+    "code": "A125-1-25102001",
+    "description": "JOCKEY PLAZA - PVH { A125-1-25102001 }"
+  },
+  {
+    "id_location": 21819340,
+    "code": "A125-1-25102002",
+    "description": "HIGUERETA - PVH { A125-1-25102002 }"
+  },
+  {
+    "id_location": 21819341,
+    "code": "A125-1-25102010",
+    "description": "LA MOLINA - PVH { A125-1-25102010 }"
+  },
+  {
+    "id_location": 21819342,
+    "code": "A125-1-25102007",
+    "description": "MIRAFLORES - PVH { A125-1-25102007 }"
+  },
+  {
+    "id_location": 21819343,
+    "code": "A125-1-25102060",
+    "description": "SALAVERRY - PVH { A125-1-25102060 }"
+  },
+  {
+    "id_location": 21819344,
+    "code": "A125-1-25102003",
+    "description": "SAN BORJA - PVH { A125-1-25102003 }"
+  },
+  {
+    "id_location": 21819345,
+    "code": "A125-1-25102053",
+    "description": "SAN ISIDRO - PVH { A125-1-25102053 }"
+  },
+  {
+    "id_location": 21819346,
+    "code": "A125-1-25102126",
+    "description": "VALLE HERMOSO - PVH { A125-1-25102126 }"
+  },
+  {
+    "id_location": 21819347,
+    "code": "A125-1-25103003",
+    "description": "CORPAC - PVS { A125-1-25103003 }"
+  },
+  {
+    "id_location": 21819348,
+    "code": "A125-1-25102019",
+    "description": "AREQUIPA - PVH { A125-1-25102019 }"
+  },
+  {
+    "id_location": 21819349,
+    "code": "A125-1-25102084",
+    "description": "BARRANCA - PVH { A125-1-25102084 }"
+  },
+  {
+    "id_location": 21819350,
+    "code": "A125-1-25102094",
+    "description": "CUSCO MALL - PVH { A125-1-25102094 }"
+  },
+  {
+    "id_location": 21819351,
+    "code": "A125-1-25103063",
+    "description": "EL EJERCITO - PVS { A125-1-25103063 }"
+  },
+  {
+    "id_location": 21819352,
+    "code": "A125-1-25102045",
+    "description": "HUACHO - PVH { A125-1-25102045 }"
+  },
+  {
+    "id_location": 21819353,
+    "code": "A125-1-25102069",
+    "description": "HUARAL - PVH { A125-1-25102069 }"
+  },
+  {
+    "id_location": 21819355,
+    "code": "A125-1-25104011",
+    "description": "ASIA - VIV { A125-1-25104011 }"
+  },
+  {
+    "id_location": 21819356,
+    "code": "A125-1-25104001",
+    "description": "BENAVIDES - VIV { A125-1-25104001 }"
+  },
+  {
+    "id_location": 21819357,
+    "code": "A125-1-25104003",
+    "description": "DOS DE MAYO - VIV { A125-1-25104003 }"
+  },
+  {
+    "id_location": 21819358,
+    "code": "A125-1-25104006",
+    "description": "JAVIER PRADO - VIV { A125-1-25104006 }"
+  },
+  {
+    "id_location": 21819359,
+    "code": "A125-1-25104007",
+    "description": "LIBERTADORES - VIV { A125-1-25104007 }"
+  },
+  {
+    "id_location": 21819360,
+    "code": "A125-1-25104005",
+    "description": "MONTERRICO - VIV { A125-1-25104005 }"
+  },
+  {
+    "id_location": 21819361,
+    "code": "A125-1-25104004",
+    "description": "PARDO - VIV { A125-1-25104004 }"
+  },
+  {
+    "id_location": 21819362,
+    "code": "A125-1-25104002",
+    "description": "PEZET - VIV { A125-1-25104002 }"
+  },
+  {
+    "id_location": 21819364,
+    "code": "A125-1-25101005",
+    "description": "CENTRO TRUJILLO - PVE { A125-1-25101005 }"
+  },
+  {
+    "id_location": 21819365,
+    "code": "A125-1-25102032",
+    "description": "CHIMBOTE - PVH { A125-1-25102032 }"
+  },
+  {
+    "id_location": 21819366,
+    "code": "A125-1-25102028",
+    "description": "EL CHACARERO - PVH { A125-1-25102028 }"
+  },
+  {
+    "id_location": 21819367,
+    "code": "A125-1-25102049",
+    "description": "NVO CHIMBOTE - PVH { A125-1-25102049 }"
+  },
+  {
+    "id_location": 21819368,
+    "code": "A125-1-25101006",
+    "description": "SUPERMERCADOS SKA - PVE { A125-1-25101006 }"
+  },
+  {
+    "id_location": 21819369,
+    "code": "A125-1-25102017",
+    "description": "TRUJILLO - PVH { A125-1-25102017 }"
+  },
+  {
+    "id_location": 21819370,
+    "code": "A125-1-25103023",
+    "description": "TRUJILLO MANSICHE - PVS { A125-1-25103023 }"
+  },
+  {
+    "id_location": 21819371,
+    "code": "A125-1-25103045",
+    "description": "TRUJILLO VALCARCEL - PVS { A125-1-25103045 }"
+  },
+  {
+    "id_location": 22213408,
+    "code": "A120-1-20102011",
+    "description": "RISSO - PVH { A120-1-20102011 }"
+  },
+  {
+    "id_location": 22213409,
+    "code": "A120-1-20102127",
+    "description": "VES PLACITA - PVH { A120-1-20102127 }"
+  },
+  {
+    "id_location": 22213410,
+    "code": "A120-1-20102051",
+    "description": "PUNO - PVH { A120-1-20102051 }"
+  },
+  {
+    "id_location": 22213411,
+    "code": "A125-1-25102106",
+    "description": "TUMBES - PVH { A125-1-25102106 }"
+  },
+  {
+    "id_location": 24944737,
+    "code": "A125-1-25102110",
+    "description": "Qoyllur - PVH { A125-1-25102110 }"
+  },
+  {
+    "id_location": 24944739,
+    "code": "A125-1-25102136",
+    "description": "San Miguel - PVH { A125-1-25102136 }"
+  },
+  {
+    "id_location": 24945168,
+    "code": "A125-1-25164005",
+    "description": "Tienda Virtual Monterrico PVS { A125-1-25164005 }"
+  },
+  {
+    "id_location": 24945172,
+    "code": "A125-1-25172026",
+    "description": "CC Puente Piedra { A125-1-25172026 }"
+  },
+  {
+    "id_location": 24945173,
+    "code": "A125-1-25172097",
+    "description": "CC Moquegua { A125-1-25172097 }"
+  },
+  {
+    "id_location": 24945174,
+    "code": "A125-1-25102011",
+    "description": "Risso - PVH { A125-1-25102011 }"
+  },
+  {
+    "id_location": 24945176,
+    "code": "A125-1-25102051",
+    "description": "Puno - PVH { A125-1-25102051 }"
+  },
+  {
+    "id_location": 24945194,
+    "code": "A125-1-25122122",
+    "description": "Prod. Pan. Chiclayo Aventura PVH { A125-1-25122122 }"
+  },
+  {
+    "id_location": 24945196,
+    "code": "A125-1-25142122",
+    "description": "Prod. Past. Chiclayo Aventura PVH { A125-1-25142122 }"
+  },
+  {
+    "id_location": 24945208,
+    "code": "A125-1-25122049",
+    "description": "Prod. Pan. Nuevo Chimbote PVH { A125-1-25122049 }"
+  },
+  {
+    "id_location": 24945212,
+    "code": "A125-1-25122094",
+    "description": "Prod. Pan. Cusco Mall PVH { A125-1-25122094 }"
+  },
+  {
+    "id_location": 24945216,
+    "code": "A125-1-25122098",
+    "description": "Prod. Pan. Talara Mall PVH { A125-1-25122098 }"
+  },
+  {
+    "id_location": 24954510,
+    "code": "A125-1-25134003",
+    "description": "Prod. Com. Prep. Dos de Mayo VIV { A125-1-25134003 }"
+  },
+  {
+    "id_location": 24954512,
+    "code": "A125-1-25134006",
+    "description": "Prod. Com. Prep. Javier Prado VIV { A125-1-25134006 }"
+  },
+  {
+    "id_location": 24954514,
+    "code": "A125-1-25142017",
+    "description": "Prod. Past. Trujillo PVH { A125-1-25142017 }"
+  },
+  {
+    "id_location": 24954516,
+    "code": "A125-1-25142018",
+    "description": "Prod. Past. Chiclayo PVH { A125-1-25142018 }"
+  },
+  {
+    "id_location": 24954518,
+    "code": "A125-1-25142019",
+    "description": "Prod. Past. Arequipa PVH { A125-1-25142019 }"
+  },
+  {
+    "id_location": 24954520,
+    "code": "A125-1-25142034",
+    "description": "Prod. Past. Ica PVH { A125-1-25142034 }"
+  },
+  {
+    "id_location": 24954591,
+    "code": "A125-1-25142049",
+    "description": "Prod. Pas Nvo. Chimbote PVH { A125-1-25142049 }"
+  },
+  {
+    "id_location": 24954593,
+    "code": "A125-1-25142044",
+    "description": "Prod. Past. Juliaca PVH { A125-1-25142044 }"
+  },
+  {
+    "id_location": 24954595,
+    "code": "A125-1-25142056",
+    "description": "Prod. Past. Cajamarca PVH { A125-1-25142056 }"
+  },
+  {
+    "id_location": 24954597,
+    "code": "A125-1-25142094",
+    "description": "Prod. Past. Cusco Mall PVH { A125-1-25142094 }"
+  },
+  {
+    "id_location": 24954599,
+    "code": "A125-1-25142097",
+    "description": "Prod. Past. Moquegua PVH { A125-1-25142097 }"
+  },
+  {
+    "id_location": 24954601,
+    "code": "A125-1-25142098",
+    "description": "Prod. Past. Talara Mall PVH { A125-1-25142098 }"
+  },
+  {
+    "id_location": 24954603,
+    "code": "A125-1-25142102",
+    "description": "Prod. Past. Ilo PVH { A125-1-25142102 }"
+  },
+  {
+    "id_location": 24954605,
+    "code": "A125-1-25162099",
+    "description": "Tienda Virtual Sucre PVH { A125-1-25162099 }"
+  },
+  {
+    "id_location": 24954615,
+    "code": "A125-1-25162017",
+    "description": "Tienda Virtual Trujillo PVH { A125-1-25162017 }"
+  },
+  {
+    "id_location": 24954617,
+    "code": "A125-1-25162122",
+    "description": "Tienda Virtual Chiclayo Aventura PVH { A125-1-25162122 }"
+  },
+  {
+    "id_location": 24954625,
+    "code": "A125-1-25150508",
+    "description": "TI Tecnología Arq. Digital e Integración { A125-1-25150508 }"
+  },
+  {
+    "id_location": 24954627,
+    "code": "A125-1-25162089",
+    "description": "Tienda Virtual La Curva PVH { A125-1-25162089 }"
+  },
+  {
+    "id_location": 24954629,
+    "code": "A125-1-25162008",
+    "description": "Tienda Virtual Ate PVH { A125-1-25162008 }"
+  },
+  {
+    "id_location": 24954644,
+    "code": "A125-1-25162094",
+    "description": "Tienda Virtual Cusco Mall PVH { A125-1-25162094 }"
+  },
+  {
+    "id_location": 24954646,
+    "code": "A125-1-25162032",
+    "description": "Tienda Virtual Chimbote PVH { A125-1-25162032 }"
+  },
+  {
+    "id_location": 24954648,
+    "code": "A125-1-25162056",
+    "description": "Tienda Virtual Cajamarca PVH { A125-1-25162056 }"
+  },
+  {
+    "id_location": 24954650,
+    "code": "A125-1-25162029",
+    "description": "Tienda Virtual Santa Clara PVH { A125-1-25162029 }"
+  },
+  {
+    "id_location": 24954652,
+    "code": "A125-1-25162065",
+    "description": "Tienda Virtual BreÃ±a PVH { A125-1-25162065 }"
+  },
+  {
+    "id_location": 24954654,
+    "code": "A125-1-25162999",
+    "description": "Back Office Virtual { A125-1-25162999 }"
+  },
+  {
+    "id_location": 24954656,
+    "code": "A125-1-25163061",
+    "description": "Tienda Virtual Caminos del Inca PVS { A125-1-25163061 }"
+  },
+  {
+    "id_location": 24954658,
+    "code": "A125-1-25163011",
+    "description": "Tienda Virtual Alameda Sur PVS { A125-1-25163011 }"
+  },
+  {
+    "id_location": 24954723,
+    "code": "A125-1-25102127",
+    "description": "Ves Placita - PVH { A125-1-25102127 }"
+  },
+  {
+    "id_location": 24954725,
+    "code": "A125-1-25150401",
+    "description": "Operaciones { A125-1-25150401 }"
+  },
+  {
+    "id_location": 24954751,
+    "code": "A125-1-25162002",
+    "description": "Tienda Virtual Higuereta PVH { A125-1-25162002 }"
+  },
+  {
+    "id_location": 24954753,
+    "code": "A125-1-25162046",
+    "description": "Tienda Virtual Piura PVH { A125-1-25162046 }"
+  },
+  {
+    "id_location": 24954755,
+    "code": "A125-1-25162126",
+    "description": "Tienda Virtual Valle Hermoso PVH { A125-1-25162126 }"
+  },
+  {
+    "id_location": 24954757,
+    "code": "A125-1-25162014",
+    "description": "Tienda Virtual Comas PVH { A125-1-25162014 }"
+  },
+  {
+    "id_location": 24954759,
+    "code": "A125-1-25162022",
+    "description": "Tienda Virtual Huancayo PVH { A125-1-25162022 }"
+  },
+  {
+    "id_location": 24954761,
+    "code": "A125-1-25162034",
+    "description": "Tienda Virtual Ica PVH { A125-1-25162034 }"
+  },
+  {
+    "id_location": 24954763,
+    "code": "A125-1-25162023",
+    "description": "Tienda Virtual Izaguirre PVH { A125-1-25162023 }"
+  },
+  {
+    "id_location": 24954765,
+    "code": "A125-1-25162052",
+    "description": "Tienda Virtual Talara PVH { A125-1-25162052 }"
+  },
+  {
+    "id_location": 24954767,
+    "code": "A125-1-25163063",
+    "description": "Tienda Virtual El Ejercito PVS { A125-1-25163063 }"
+  },
+  {
+    "id_location": 24970633,
+    "code": "A125-1-25172002",
+    "description": "CC Higuereta { A125-1-25172002 }"
+  },
+  {
+    "id_location": 24970638,
+    "code": "A125-1-25172009",
+    "description": "CC Bolichera { A125-1-25172009 }"
+  },
+  {
+    "id_location": 26149450,
+    "code": "A124-1-24107018",
+    "description": "CAÑETE - MK { A124-1-24107018 }"
+  },
+  {
+    "id_location": 26149488,
+    "code": "A124-1-24107041",
+    "description": "CHIMBOTE - MK { A124-1-24107041 }"
+  },
+  {
+    "id_location": 26321022,
+    "code": "A122-1-2224001",
+    "description": "Agora Club { A122-1-2224001 }"
+  },
+  {
+    "id_location": 29967526,
+    "code": "A125-1-25122018",
+    "description": "Prod. Pan. Chiclayo PVH { A125-1-25122018 }"
+  },
+  {
+    "id_location": 29967532,
+    "code": "A125-1-25162016",
+    "description": "Tienda Virtual Primavera PVH { A125-1-25162016 }"
+  },
+  {
+    "id_location": 29967534,
+    "code": "A125-1-25172043",
+    "description": "CC Tacna { A125-1-25172043 }"
+  },
+  {
+    "id_location": 30278760,
+    "code": "A124-1-24107042",
+    "description": "SMP - MK { A124-1-24107042 }"
+  },
+  {
+    "id_location": 31937776,
+    "code": "A125-1-25162021",
+    "description": "Tienda Virtual Pro PVH { A125-1-25162021 }"
+  },
+  {
+    "id_location": 31937778,
+    "code": "A125-1-25162136",
+    "description": "Tienda Virtual San Miguel PVH { A125-1-25162136 }"
+  },
+  {
+    "id_location": 32141154,
+    "code": "A125-1-25102121",
+    "description": "Aventura SJL - PVH { A125-1-25102121 }"
+  },
+  {
+    "id_location": 32827166,
+    "code": "A125-1-25150110",
+    "description": "Relaciones Laborales { A125-1-25150110 }"
+  },
+  {
+    "id_location": 32827168,
+    "code": "A125-1-25150107",
+    "description": "Business Partner { A125-1-25150107 }"
+  },
+  {
+    "id_location": 32827169,
+    "code": "A125-1-25150103",
+    "description": "Capacitación { A125-1-25150103 }"
+  },
+  {
+    "id_location": 32827170,
+    "code": "A125-1-25102998",
+    "description": "Trainee Plaza Vea { A125-1-25102998 }"
+  },
+  {
+    "id_location": 32827171,
+    "code": "A125-1-25150177",
+    "description": "Auditoría Interna { A125-1-25150177 }"
+  },
+  {
+    "id_location": 32827172,
+    "code": "A125-1-25132999",
+    "description": "Back Office Producción { A125-1-25132999 }"
+  },
+  {
+    "id_location": 32827173,
+    "code": "A125-1-25150405",
+    "description": "Prevención de Pérdidas { A125-1-25150405 }"
+  },
+  {
+    "id_location": 32827174,
+    "code": "A125-1-25220023",
+    "description": "Intercomp Serv Comp { A125-1-25220023 }"
+  },
+  {
+    "id_location": 32827176,
+    "code": "A125-1-25162997",
+    "description": "Back Office Last Mile { A125-1-25162997 }"
+  },
+  {
+    "id_location": 32827178,
+    "code": "A125-1-25150102",
+    "description": "Reclutamiento y Selección { A125-1-25150102 }"
+  },
+  {
+    "id_location": 32827180,
+    "code": "A125-1-25150406",
+    "description": "Eficiencia y procesos CFR { A125-1-25150406 }"
+  },
+  {
+    "id_location": 33350399,
+    "code": "A124-1-24107010",
+    "description": "SJM - MK { A124-1-24107010 }"
+  },
+  {
+    "id_location": 33689823,
+    "code": "A124-1-24150405",
+    "description": "Prevención de Pérdidas { A124-1-24150405 }"
+  },
+  {
+    "id_location": 33689825,
+    "code": "A124-1-24150251",
+    "description": "Comercial { A124-1-24150251 }"
+  },
+  {
+    "id_location": 34084286,
+    "code": "A125-1-25131005",
+    "description": "NO USAR { A125-1-25131005 }"
+  },
+  {
+    "id_location": 34084288,
+    "code": "A125-1-25131006",
+    "description": "NO USAR { A125-1-25131006 }"
+  },
+  {
+    "id_location": 34084291,
+    "code": "A125-1-25164007",
+    "description": "Tieda Virtual Libertadores VIV { A125-1-25164007 }"
+  },
+  {
+    "id_location": 34084296,
+    "code": "A125-1-25163007",
+    "description": "NO USAR { A125-1-25163007 }"
+  },
+  {
+    "id_location": 34084306,
+    "code": "A125-1-25104999",
+    "description": "Back Office Vivanda { A125-1-25104999 }"
+  },
+  {
+    "id_location": 34084308,
+    "code": "A125-1-25122019",
+    "description": "Prod. Pan. Arequipa PVH { A125-1-25122019 }"
+  },
+  {
+    "id_location": 34084310,
+    "code": "A125-1-25122043",
+    "description": "Prod. Pan. Tacna PVH { A125-1-25122043 }"
+  },
+  {
+    "id_location": 34084312,
+    "code": "A125-1-25122046",
+    "description": "Prod. Pan. Piura PVH { A125-1-25122046 }"
+  },
+  {
+    "id_location": 34084314,
+    "code": "A125-1-25122051",
+    "description": "Prod. Pan. Puno PVH { A125-1-25122051 }"
+  },
+  {
+    "id_location": 34084317,
+    "code": "A125-1-25122069",
+    "description": "Prod. Pan. Huaral PVH { A125-1-25122069 }"
+  },
+  {
+    "id_location": 34084319,
+    "code": "A125-1-25122075",
+    "description": "Prod. Pan. Paita PVH { A125-1-25122075 }"
+  },
+  {
+    "id_location": 34084321,
+    "code": "A125-1-25122097",
+    "description": "Prod. Pan. Moquegua PVH { A125-1-25122097 }"
+  },
+  {
+    "id_location": 34084326,
+    "code": "A125-1-25122106",
+    "description": "Prod. Pan. Tumbes PVH { A125-1-25122106 }"
+  },
+  {
+    "id_location": 34084330,
+    "code": "A125-1-25123023",
+    "description": "NO USAR { A125-1-25123023 }"
+  },
+  {
+    "id_location": 34084332,
+    "code": "A125-1-25124002",
+    "description": "Prod. Pan.  Pezet VIV { A125-1-25124002 }"
+  },
+  {
+    "id_location": 34084334,
+    "code": "A125-1-25124005",
+    "description": "Prod. Pan.  Monterrico VIV { A125-1-25124005 }"
+  },
+  {
+    "id_location": 34084336,
+    "code": "A125-1-25124011",
+    "description": "Prod. Pan. Asia VIV { A125-1-25124011 }"
+  },
+  {
+    "id_location": 34084339,
+    "code": "A125-1-25132097",
+    "description": "NO USAR { A125-1-25132097 }"
+  },
+  {
+    "id_location": 34084341,
+    "code": "A125-1-25132128",
+    "description": "NO USAR { A125-1-25132128 }"
+  },
+  {
+    "id_location": 34084345,
+    "code": "A125-1-25133025",
+    "description": "NO USAR { A125-1-25133025 }"
+  },
+  {
+    "id_location": 34084347,
+    "code": "A125-1-25134002",
+    "description": "Prod. Com. Prep. Pezet VIV { A125-1-25134002 }"
+  },
+  {
+    "id_location": 34084349,
+    "code": "A125-1-25134005",
+    "description": "Prod. Com. Prep. Monterrico VIV { A125-1-25134005 }"
+  },
+  {
+    "id_location": 34084351,
+    "code": "A125-1-25172089",
+    "description": "NO USAR { A125-1-25172089 }"
+  },
+  {
+    "id_location": 34084353,
+    "code": "A125-1-25172102",
+    "description": "CC Ilo { A125-1-25172102 }"
+  },
+  {
+    "id_location": 34084356,
+    "code": "A125-1-25142043",
+    "description": "Prod. Past. Tacna PVH { A125-1-25142043 }"
+  },
+  {
+    "id_location": 34084358,
+    "code": "A125-1-25142052",
+    "description": "NO USAR { A125-1-25142052 }"
+  },
+  {
+    "id_location": 34084360,
+    "code": "A125-1-25142069",
+    "description": "Prod. Past. Huaral PVH { A125-1-25142069 }"
+  },
+  {
+    "id_location": 34084362,
+    "code": "A125-1-25142086",
+    "description": "Prod. Past. Pisco PVH { A125-1-25142086 }"
+  },
+  {
+    "id_location": 34084364,
+    "code": "A125-1-25162000",
+    "description": "E-commerce Non Food { A125-1-25162000 }"
+  },
+  {
+    "id_location": 34084366,
+    "code": "A125-1-25162098",
+    "description": "Tienda Virtual Talara Municipalidad PVH { A125-1-25162098 }"
+  },
+  {
+    "id_location": 34084368,
+    "code": "A125-1-25162007",
+    "description": "Tienda Virtual Miraflores PVH { A125-1-25162007 }"
+  },
+  {
+    "id_location": 34084370,
+    "code": "A125-1-25162025",
+    "description": "Tienda Virtual Universitaria PVH { A125-1-25162025 }"
+  },
+  {
+    "id_location": 34084372,
+    "code": "A125-1-25162003",
+    "description": "Tienda Virtual San Borja PVH { A125-1-25162003 }"
+  },
+  {
+    "id_location": 34084374,
+    "code": "A125-1-25162030",
+    "description": "Tienda Virtual San Juan de Lurigancho PV { A125-1-25162030 }"
+  },
+  {
+    "id_location": 34084376,
+    "code": "A125-1-25162018",
+    "description": "Tienda Virtual Chiclayo PVH { A125-1-25162018 }"
+  },
+  {
+    "id_location": 34084378,
+    "code": "A125-1-25162055",
+    "description": "Tienda Virtual Acho PVH { A125-1-25162055 }"
+  },
+  {
+    "id_location": 34084380,
+    "code": "A125-1-25162051",
+    "description": "Tienda Virtual Puno PVH { A125-1-25162051 }"
+  },
+  {
+    "id_location": 34084382,
+    "code": "A125-1-25162049",
+    "description": "Tienda Virtual Nuevo Chimbote PVH { A125-1-25162049 }"
+  },
+  {
+    "id_location": 34084384,
+    "code": "A125-1-25162053",
+    "description": "Tienda Virtual San Isidro PVH { A125-1-25162053 }"
+  },
+  {
+    "id_location": 34084386,
+    "code": "A125-1-25122050",
+    "description": "NO USAR { A125-1-25122050 }"
+  },
+  {
+    "id_location": 34084388,
+    "code": "A125-1-25123017",
+    "description": "NO USAR { A125-1-25123017 }"
+  },
+  {
+    "id_location": 34084390,
+    "code": "A125-1-25123025",
+    "description": "NO USAR { A125-1-25123025 }"
+  },
+  {
+    "id_location": 34084392,
+    "code": "A125-1-25123063",
+    "description": "NO USAR { A125-1-25123063 }"
+  },
+  {
+    "id_location": 34084636,
+    "code": "A125-1-25132017",
+    "description": "NO USAR { A125-1-25132017 }"
+  },
+  {
+    "id_location": 34084638,
+    "code": "A125-1-25132018",
+    "description": "NO USAR { A125-1-25132018 }"
+  },
+  {
+    "id_location": 34084640,
+    "code": "A125-1-25132019",
+    "description": "NO USAR { A125-1-25132019 }"
+  },
+  {
+    "id_location": 34084642,
+    "code": "A125-1-25164011",
+    "description": "Tienda Virtual Asia VIV { A125-1-25164011 }"
+  },
+  {
+    "id_location": 34084644,
+    "code": "A125-1-25150106",
+    "description": "Sostenibilidad y Medio Ambiente { A125-1-25150106 }"
+  },
+  {
+    "id_location": 34084645,
+    "code": "A125-1-25102996",
+    "description": "Back office SAC { A125-1-25102996 }"
+  },
+  {
+    "id_location": 34084646,
+    "code": "A125-1-25109001",
+    "description": "PV 28 de Julio { A125-1-25109001 }"
+  },
+  {
+    "id_location": 34087304,
+    "code": "A122-1-2201056",
+    "description": "Sostenibilidad y Medio Ambiente { A122-1-2201056 }"
+  },
+  {
+    "id_location": 34087306,
+    "code": "A122-1-2201052",
+    "description": "Reclutamiento y Selección { A122-1-2201052 }"
+  },
+  {
+    "id_location": 34087308,
+    "code": "A124-1-24257004",
+    "description": "DDC Zarate 2 - MK { A124-1-24257004 }"
+  },
+  {
+    "id_location": 34087310,
+    "code": "A122-1-2252011",
+    "description": "Intercomp Otras Comp { A122-1-2252011 }"
+  },
+  {
+    "id_location": 34087311,
+    "code": "A124-1-24257005",
+    "description": "DDC Cusco - MK { A124-1-24257005 }"
+  },
+  {
+    "id_location": 34087320,
+    "code": "A124-1-24150177",
+    "description": "Auditoría Interna { A124-1-24150177 }"
+  },
+  {
+    "id_location": 34087327,
+    "code": "A124-1-24150406",
+    "description": "Efic y procesos MK { A124-1-24150406 }"
+  },
+  {
+    "id_location": 34110879,
+    "code": "A122-1-2208002",
+    "description": "CD Frescos { A122-1-2208002 }"
+  },
+  {
+    "id_location": 34110881,
+    "code": "A122-1-2208003",
+    "description": "CD Punta Negra Aporte { A122-1-2208003 }"
+  },
+  {
+    "id_location": 34110883,
+    "code": "A122-1-2252001",
+    "description": "Intercompañia SPSA { A122-1-2252001 }"
+  },
+  {
+    "id_location": 34110885,
+    "code": "A122-1-2209001",
+    "description": "Producción 1 { A122-1-2209001 }"
+  },
+  {
+    "id_location": 34110887,
+    "code": "A122-1-2201051",
+    "description": "Desarrollo y Gestión Humana { A122-1-2201051 }"
+  },
+  {
+    "id_location": 34110889,
+    "code": "A122-1-2208004",
+    "description": "CD Pescados { A122-1-2208004 }"
+  },
+  {
+    "id_location": 34110892,
+    "code": "A122-1-2208005",
+    "description": "CD Congelados { A122-1-2208005 }"
+  },
+  {
+    "id_location": 34110894,
+    "code": "A122-1-2201501",
+    "description": "Sistemas PVO { A122-1-2201501 }"
+  },
+  {
+    "id_location": 34110896,
+    "code": "A122-1-2208001",
+    "description": "CD Secos { A122-1-2208001 }"
+  },
+  {
+    "id_location": 34110923,
+    "code": "A122-1-2213003",
+    "description": "Pan. Pucallpa - PVO { A122-1-2213003 }"
+  },
+  {
+    "id_location": 34110925,
+    "code": "A122-1-2213004",
+    "description": "Pan. Tarapoto - PVO { A122-1-2213004 }"
+  },
+  {
+    "id_location": 34110927,
+    "code": "A122-1-2214001",
+    "description": "Com. Prep. Huánuco - PVO { A122-1-2214001 }"
+  },
+  {
+    "id_location": 34110929,
+    "code": "A122-1-2214002",
+    "description": "Com.Prep. Jaén - PVO { A122-1-2214002 }"
+  },
+  {
+    "id_location": 34110932,
+    "code": "A122-1-2214003",
+    "description": "Com. Prep. Pucallpa - PVO { A122-1-2214003 }"
+  },
+  {
+    "id_location": 34110934,
+    "code": "A122-1-2214004",
+    "description": "Com. Prep. Tarapoto - PVO { A122-1-2214004 }"
+  },
+  {
+    "id_location": 34110937,
+    "code": "A122-1-2215001",
+    "description": "Pas. Huánuco - PVO { A122-1-2215001 }"
+  },
+  {
+    "id_location": 34110944,
+    "code": "A124-1-24150001",
+    "description": "Gerencia General { A124-1-24150001 }"
+  },
+  {
+    "id_location": 34110946,
+    "code": "A124-1-24150151",
+    "description": "Gerencia Finanzas MK { A124-1-24150151 }"
+  },
+  {
+    "id_location": 34110948,
+    "code": "A124-1-24150508",
+    "description": "TI Tecnología Arq. D. MK { A124-1-24150508 }"
+  },
+  {
+    "id_location": 34110950,
+    "code": "A124-1-24107999",
+    "description": "B.O Cash & Carry MK { A124-1-24107999 }"
+  },
+  {
+    "id_location": 34110952,
+    "code": "A124-1-24150164",
+    "description": "Legal MK { A124-1-24150164 }"
+  },
+  {
+    "id_location": 34110958,
+    "code": "A124-1-24257031",
+    "description": "DDC Zarate - MK { A124-1-24257031 }"
+  },
+  {
+    "id_location": 34110961,
+    "code": "A124-1-24257032",
+    "description": "DDC Trujillo - MK { A124-1-24257032 }"
+  },
+  {
+    "id_location": 34110963,
+    "code": "A124-1-24257033",
+    "description": "DDC Piura - MK { A124-1-24257033 }"
+  },
+  {
+    "id_location": 34110965,
+    "code": "A124-1-24257034",
+    "description": "DDC Comas - MK { A124-1-24257034 }"
+  },
+  {
+    "id_location": 34110967,
+    "code": "A124-1-24257035",
+    "description": "DDC Villa El Salvador - MK { A124-1-24257035 }"
+  },
+  {
+    "id_location": 34110975,
+    "code": "A125-1-25150105",
+    "description": "Bienestar y Salud { A125-1-25150105 }"
+  },
+  {
+    "id_location": 34110981,
+    "code": "A125-1-25132022",
+    "description": "NO USAR { A125-1-25132022 }"
+  },
+  {
+    "id_location": 34110983,
+    "code": "A125-1-25132028",
+    "description": "NO USAR { A125-1-25132028 }"
+  },
+  {
+    "id_location": 34110986,
+    "code": "A125-1-25132032",
+    "description": "NO USAR { A125-1-25132032 }"
+  },
+  {
+    "id_location": 34110988,
+    "code": "A125-1-25132034",
+    "description": "NO USAR { A125-1-25132034 }"
+  },
+  {
+    "id_location": 34110991,
+    "code": "A125-1-25132043",
+    "description": "NO USAR { A125-1-25132043 }"
+  },
+  {
+    "id_location": 34110994,
+    "code": "A125-1-25132044",
+    "description": "NO USAR { A125-1-25132044 }"
+  },
+  {
+    "id_location": 34110996,
+    "code": "A125-1-25132052",
+    "description": "NO USAR { A125-1-25132052 }"
+  },
+  {
+    "id_location": 34110998,
+    "code": "A125-1-25132056",
+    "description": "NO USAR { A125-1-25132056 }"
+  },
+  {
+    "id_location": 34111001,
+    "code": "A125-1-25132069",
+    "description": "NO USAR { A125-1-25132069 }"
+  },
+  {
+    "id_location": 34111003,
+    "code": "A125-1-25132075",
+    "description": "NO USAR { A125-1-25132075 }"
+  },
+  {
+    "id_location": 34111006,
+    "code": "A125-1-25132084",
+    "description": "NO USAR { A125-1-25132084 }"
+  },
+  {
+    "id_location": 34111009,
+    "code": "A125-1-25132086",
+    "description": "NO USAR { A125-1-25132086 }"
+  },
+  {
+    "id_location": 34111012,
+    "code": "A125-1-25132094",
+    "description": "NO USAR { A125-1-25132094 }"
+  },
+  {
+    "id_location": 34111015,
+    "code": "A125-1-25132098",
+    "description": "NO USAR { A125-1-25132098 }"
+  },
+  {
+    "id_location": 34111018,
+    "code": "A125-1-25132102",
+    "description": "NO USAR { A125-1-25132102 }"
+  },
+  {
+    "id_location": 34111021,
+    "code": "A125-1-25133017",
+    "description": "NO USAR { A125-1-25133017 }"
+  },
+  {
+    "id_location": 34111026,
+    "code": "A125-1-25162001",
+    "description": "NO USAR { A125-1-25162001 }"
+  },
+  {
+    "id_location": 34111029,
+    "code": "A125-1-25164002",
+    "description": "NO USAR { A125-1-25164002 }"
+  },
+  {
+    "id_location": 34111032,
+    "code": "A125-1-25164003",
+    "description": "NO USAR { A125-1-25164003 }"
+  },
+  {
+    "id_location": 34111034,
+    "code": "A125-1-25164004",
+    "description": "NO USAR { A125-1-25164004 }"
+  },
+  {
+    "id_location": 34111036,
+    "code": "A125-1-25164006",
+    "description": "NO USAR { A125-1-25164006 }"
+  },
+  {
+    "id_location": 34111039,
+    "code": "A125-1-25172078",
+    "description": "NO USAR { A125-1-25172078 }"
+  },
+  {
+    "id_location": 34111042,
+    "code": "A125-1-25172106",
+    "description": "CC Tumbes { A125-1-25172106 }"
+  },
+  {
+    "id_location": 34111045,
+    "code": "A125-1-25150407",
+    "description": "Gerencia Zonales { A125-1-25150407 }"
+  },
+  {
+    "id_location": 34111049,
+    "code": "A125-1-25102999",
+    "description": "Back Office Plaza Vea { A125-1-25102999 }"
+  },
+  {
+    "id_location": 34111057,
+    "code": "A125-1-25172127",
+    "description": "CC  Ves Placita { A125-1-25172127 }"
+  },
+  {
+    "id_location": 34180917,
+    "code": "A124-1-24180087",
+    "description": "Proyecto - MK { A124-1-24180087 }"
+  },
+  {
+    "id_location": 34180919,
+    "code": "A122-1-2215004",
+    "description": "Pas. Tarapoto - PVO { A122-1-2215004 }"
+  },
+  {
+    "id_location": 34180923,
+    "code": "A122-1-2201179",
+    "description": "Gestión de Calidad PVO { A122-1-2201179 }"
+  },
+  {
+    "id_location": 34180926,
+    "code": "A122-1-2208006",
+    "description": "Almacenes Temporales { A122-1-2208006 }"
+  },
+  {
+    "id_location": 34180931,
+    "code": "A124-1-24257030",
+    "description": "DDC Chiclayo - MK { A124-1-24257030 }"
+  },
+  {
+    "id_location": 34180932,
+    "code": "A122-1-2252021",
+    "description": "Intercomp Serv Comp { A122-1-2252021 }"
+  },
+  {
+    "id_location": 34180934,
+    "code": "A122-1-2201054",
+    "description": "Cultura y Talento { A122-1-2201054 }"
+  },
+  {
+    "id_location": 34180936,
+    "code": "A122-1-2202005",
+    "description": "Tarapoto 2 - PVO { A122-1-2202005 }"
+  },
+  {
+    "id_location": 34180939,
+    "code": "A125-1-25134004",
+    "description": "Prod. Com. Prep. Pardo VIV { A125-1-25134004 }"
+  },
+  {
+    "id_location": 34180941,
+    "code": "A125-1-25134007",
+    "description": "Prod. Com. Prep. Libertadores VIV { A125-1-25134007 }"
+  },
+  {
+    "id_location": 34180943,
+    "code": "A125-1-25142022",
+    "description": "Prod. Past. Huancayo PVH { A125-1-25142022 }"
+  },
+  {
+    "id_location": 34180945,
+    "code": "A125-1-25142032",
+    "description": "Prod. Past. Chimbote PVH { A125-1-25142032 }"
+  },
+  {
+    "id_location": 34180947,
+    "code": "A125-1-25142050",
+    "description": "Prod. Past. Chincha PVH { A125-1-25142050 }"
+  },
+  {
+    "id_location": 34180948,
+    "code": "A125-1-25162024",
+    "description": "NO USAR { A125-1-25162024 }"
+  },
+  {
+    "id_location": 34180950,
+    "code": "A125-1-25150992",
+    "description": "Administración Central - Higuereta { A125-1-25150992 }"
+  },
+  {
+    "id_location": 34180952,
+    "code": "A125-1-25124001",
+    "description": "Prod. Pan.  Benavides VIV { A125-1-25124001 }"
+  },
+  {
+    "id_location": 34180954,
+    "code": "A125-1-25124004",
+    "description": "Prod. Pan.  Pardo VIV { A125-1-25124004 }"
+  },
+  {
+    "id_location": 34180956,
+    "code": "A125-1-25124007",
+    "description": "Prod. Pan.  Libertadores VIV { A125-1-25124007 }"
+  },
+  {
+    "id_location": 34180959,
+    "code": "A125-1-25150162",
+    "description": "Contabilidad  { A125-1-25150162 }"
+  },
+  {
+    "id_location": 34180962,
+    "code": "A125-1-25122084",
+    "description": "NO USAR { A125-1-25122084 }"
+  },
+  {
+    "id_location": 34180964,
+    "code": "A125-1-25134011",
+    "description": "Prod. Com. Prep. Asia VIV { A125-1-25134011 }"
+  },
+  {
+    "id_location": 34180967,
+    "code": "A125-1-25142028",
+    "description": "Prod. Past. El Chacarero PVH { A125-1-25142028 }"
+  },
+  {
+    "id_location": 34180968,
+    "code": "A125-1-25104010",
+    "description": "Destinos del Sabor - VIV { A125-1-25104010 }"
+  },
+  {
+    "id_location": 34180970,
+    "code": "A125-1-25122017",
+    "description": "Prod. Pan. Trujillo PVH { A125-1-25122017 }"
+  },
+  {
+    "id_location": 34180972,
+    "code": "A125-1-25122022",
+    "description": "Prod. Pan. Huancayo PVH { A125-1-25122022 }"
+  },
+  {
+    "id_location": 34180974,
+    "code": "A125-1-25122028",
+    "description": "Prod. Pan. El Chacarero PVH { A125-1-25122028 }"
+  },
+  {
+    "id_location": 34278212,
+    "code": "A125-1-25110005",
+    "description": "Prod. Adm Comunes { A125-1-25110005 }"
+  },
+  {
+    "id_location": 34278214,
+    "code": "A125-1-25110006",
+    "description": "Prod. Administración { A125-1-25110006 }"
+  },
+  {
+    "id_location": 34278216,
+    "code": "A125-1-25110026",
+    "description": "Prod. Pastelería VES { A125-1-25110026 }"
+  },
+  {
+    "id_location": 34278218,
+    "code": "A125-1-25110027",
+    "description": "Prod. Comidas VES { A125-1-25110027 }"
+  },
+  {
+    "id_location": 34278220,
+    "code": "A125-1-25110028",
+    "description": "Prod. Panadería VES { A125-1-25110028 }"
+  },
+  {
+    "id_location": 34418421,
+    "code": "A122-1-2210001",
+    "description": "Pub y Mark Plaza Vea Hiper { A122-1-2210001 }"
+  },
+  {
+    "id_location": 34418423,
+    "code": "A122-1-2213001",
+    "description": "Pan. Huánuco - PVO { A122-1-2213001 }"
+  },
+  {
+    "id_location": 34418425,
+    "code": "A122-1-2213002",
+    "description": "Pan. Jaén - PVO { A122-1-2213002 }"
+  },
+  {
+    "id_location": 34418442,
+    "code": "A124-1-24910001",
+    "description": "Inretail Mk { A124-1-24910001 }"
+  },
+  {
+    "id_location": 34418445,
+    "code": "A124-1-24180081",
+    "description": "Cross Docking / Almacén General - MK { A124-1-24180081 }"
+  },
+  {
+    "id_location": 34418447,
+    "code": "A124-1-24180084",
+    "description": "Plan Backup - MK { A124-1-24180084 }"
+  },
+  {
+    "id_location": 34418449,
+    "code": "A124-1-24180089",
+    "description": "Bodega 89 - MK { A124-1-24180089 }"
+  },
+  {
+    "id_location": 34418451,
+    "code": "A124-1-24180094",
+    "description": "Bodega 94 - MK { A124-1-24180094 }"
+  },
+  {
+    "id_location": 34418453,
+    "code": "A124-1-24180097",
+    "description": "Discrep(Esm) - MK { A124-1-24180097 }"
+  },
+  {
+    "id_location": 34418455,
+    "code": "A124-1-24257040",
+    "description": "DDC Trujillo 2 - MK { A124-1-24257040 }"
+  },
+  {
+    "id_location": 34418457,
+    "code": "A124-1-24257014",
+    "description": "DDC Chorrillos - MK { A124-1-24257014 }"
+  },
+  {
+    "id_location": 34418459,
+    "code": "A124-1-24257019",
+    "description": "DDC Cercado - MK { A124-1-24257019 }"
+  },
+  {
+    "id_location": 34418461,
+    "code": "A124-1-24257013",
+    "description": "DDC Zapallal - MK { A124-1-24257013 }"
+  },
+  {
+    "id_location": 34418463,
+    "code": "A124-1-24257041",
+    "description": "DDC Chimbote - MK { A124-1-24257041 }"
+  },
+  {
+    "id_location": 34418465,
+    "code": "A124-1-24257018",
+    "description": "DDC Cañete - MK { A124-1-24257018 }"
+  },
+  {
+    "id_location": 34418467,
+    "code": "A124-1-24257026",
+    "description": "DDC Callao - MK { A124-1-24257026 }"
+  },
+  {
+    "id_location": 34418470,
+    "code": "A125-1-25132045",
+    "description": "NO USAR { A125-1-25132045 }"
+  },
+  {
+    "id_location": 34418472,
+    "code": "A125-1-25132046",
+    "description": "NO USAR { A125-1-25132046 }"
+  },
+  {
+    "id_location": 34418474,
+    "code": "A125-1-25132049",
+    "description": "NO USAR { A125-1-25132049 }"
+  },
+  {
+    "id_location": 34418475,
+    "code": "A125-1-25133063",
+    "description": "NO USAR { A125-1-25133063 }"
+  },
+  {
+    "id_location": 34418477,
+    "code": "A125-1-25142128",
+    "description": "NO USAR { A125-1-25142128 }"
+  },
+  {
+    "id_location": 34418479,
+    "code": "A125-1-25122034",
+    "description": "NO USAR { A125-1-25122034 }"
+  },
+  {
+    "id_location": 34418482,
+    "code": "A125-1-25132051",
+    "description": "NO USAR { A125-1-25132051 }"
+  },
+  {
+    "id_location": 34418484,
+    "code": "A125-1-25133023",
+    "description": "NO USAR { A125-1-25133023 }"
+  },
+  {
+    "id_location": 34418486,
+    "code": "A125-1-25134001",
+    "description": "Prod. Com. Prep. Benavides VIV { A125-1-25134001 }"
+  },
+  {
+    "id_location": 34418488,
+    "code": "A125-1-25150991",
+    "description": "Administración Central { A125-1-25150991 }"
+  },
+  {
+    "id_location": 34418490,
+    "code": "A125-1-25122052",
+    "description": "NO USAR { A125-1-25122052 }"
+  },
+  {
+    "id_location": 34418492,
+    "code": "A125-1-25150403",
+    "description": "Regional Precio. { A125-1-25150403 }"
+  },
+  {
+    "id_location": 34418494,
+    "code": "A122-1-2215002",
+    "description": "Pas. Jaén - PVO { A122-1-2215002 }"
+  },
+  {
+    "id_location": 34418496,
+    "code": "A122-1-2215003",
+    "description": "Pas. Pucallpa - PVO { A122-1-2215003 }"
+  },
+  {
+    "id_location": 34418497,
+    "code": "A124-1-24180083",
+    "description": "Merma - MK { A124-1-24180083 }"
+  },
+  {
+    "id_location": 34418499,
+    "code": "A124-1-24180086",
+    "description": "Preapertura - MK { A124-1-24180086 }"
+  },
+  {
+    "id_location": 34418501,
+    "code": "A124-1-24180093",
+    "description": "Esmeralda - MK { A124-1-24180093 }"
+  },
+  {
+    "id_location": 34418503,
+    "code": "A124-1-24180096",
+    "description": "A.G. Ransa - MK { A124-1-24180096 }"
+  },
+  {
+    "id_location": 34418505,
+    "code": "A124-1-24150203",
+    "description": "Tesorería { A124-1-24150203 }"
+  },
+  {
+    "id_location": 34418507,
+    "code": "A124-1-24150999",
+    "description": "Administración Antiguos { A124-1-24150999 }"
+  },
+  {
+    "id_location": 34418509,
+    "code": "A124-1-24220002",
+    "description": "Intercomp SPSA { A124-1-24220002 }"
+  },
+  {
+    "id_location": 34418511,
+    "code": "A124-1-24257008",
+    "description": "DDC Sullana - MK { A124-1-24257008 }"
+  },
+  {
+    "id_location": 34418513,
+    "code": "A124-1-24257025",
+    "description": "DDC Independencia - MK { A124-1-24257025 }"
+  },
+  {
+    "id_location": 34418515,
+    "code": "A124-1-24257029",
+    "description": "DDC Arequipa - MK { A124-1-24257029 }"
+  },
+  {
+    "id_location": 34418516,
+    "code": "A124-1-24107013",
+    "description": "Zapallal - MK { A124-1-24107013 }"
+  },
+  {
+    "id_location": 34418518,
+    "code": "A124-1-24150704",
+    "description": "Efic y procesos MK { A124-1-24150704 }"
+  },
+  {
+    "id_location": 34418524,
+    "code": "A122-1-2201001",
+    "description": "Gerencia General { A122-1-2201001 }"
+  },
+  {
+    "id_location": 34418556,
+    "code": "A122-1-02208001",
+    "description": "CD Secos { A122-1-02208001 }"
+  },
+  {
+    "id_location": 34418563,
+    "code": "A124-1-24150207",
+    "description": "Contabilidad { A124-1-24150207 }"
+  },
+  {
+    "id_location": 34418566,
+    "code": "A125-1-25172088",
+    "description": "CC Ventanilla { A125-1-25172088 }"
+  },
+  {
+    "id_location": 34418568,
+    "code": "A125-1-25122086",
+    "description": "Prod. Pan. Pisco PVH { A125-1-25122086 }"
+  },
+  {
+    "id_location": 34418570,
+    "code": "A125-1-25142051",
+    "description": "Prod. Past. Puno PVH { A125-1-25142051 }"
+  },
+  {
+    "id_location": 34418572,
+    "code": "A125-1-25142045",
+    "description": "Prod. Past. Huacho PVH { A125-1-25142045 }"
+  },
+  {
+    "id_location": 34418574,
+    "code": "A125-1-25142075",
+    "description": "Prod. Past. Paita PVH { A125-1-25142075 }"
+  },
+  {
+    "id_location": 34418576,
+    "code": "A125-1-25162010",
+    "description": "Tienda Virtual La Molina PVH { A125-1-25162010 }"
+  },
+  {
+    "id_location": 34418578,
+    "code": "A125-1-25142046",
+    "description": "Prod. Pas Piura PVH { A125-1-25142046 }"
+  },
+  {
+    "id_location": 34418579,
+    "code": "A125-1-25122032",
+    "description": "Prod. Pan. Chimbote PVH { A125-1-25122032 }"
+  },
+  {
+    "id_location": 34418581,
+    "code": "A125-1-25122044",
+    "description": "Prod. Pan. Juliaca PVH { A125-1-25122044 }"
+  },
+  {
+    "id_location": 34418583,
+    "code": "A125-1-25172051",
+    "description": "CC Puno { A125-1-25172051 }"
+  },
+  {
+    "id_location": 34470615,
+    "code": "A124-1-24150208",
+    "description": "Almacén de activos { A124-1-24150208 }"
+  },
+  {
+    "id_location": 34470623,
+    "code": "A124-1-24180082",
+    "description": "Discrepancias - MK { A124-1-24180082 }"
+  },
+  {
+    "id_location": 34470625,
+    "code": "A124-1-24180085",
+    "description": "Canasta Navideña - MK { A124-1-24180085 }"
+  },
+  {
+    "id_location": 34470627,
+    "code": "A124-1-24180092",
+    "description": "Bodega 92 - MK { A124-1-24180092 }"
+  },
+  {
+    "id_location": 34470630,
+    "code": "A124-1-24180095",
+    "description": "Bodega 95 - MK { A124-1-24180095 }"
+  },
+  {
+    "id_location": 34470632,
+    "code": "A124-1-24180099",
+    "description": "Merma(Esm) - MK { A124-1-24180099 }"
+  },
+  {
+    "id_location": 34470636,
+    "code": "A124-1-24107043",
+    "description": "Arequipa 3 - MK { A124-1-24107043 }"
+  },
+  {
+    "id_location": 34471008,
+    "code": "A125-1-25102115",
+    "description": "Armado de canastas { A125-1-25102115 }"
+  },
+  {
+    "id_location": 34471010,
+    "code": "A125-1-25150402",
+    "description": "Regional Hiper/Super { A125-1-25150402 }"
+  },
+  {
+    "id_location": 34471011,
+    "code": "A125-1-25150409",
+    "description": "Seguridad Central. { A125-1-25150409 }"
+  },
+  {
+    "id_location": 34471038,
+    "code": "A125-1-25132050",
+    "description": "NO USAR { A125-1-25132050 }"
+  },
+  {
+    "id_location": 34471040,
+    "code": "A125-1-25164001",
+    "description": "Tienda Virtual Benavides VIV { A125-1-25164001 }"
+  },
+  {
+    "id_location": 34471042,
+    "code": "A125-1-25172014",
+    "description": "CC Comas { A125-1-25172014 }"
+  },
+  {
+    "id_location": 34471045,
+    "code": "A125-1-25172096",
+    "description": "NO USAR { A125-1-25172096 }"
+  },
+  {
+    "id_location": 34471047,
+    "code": "A125-1-25122045",
+    "description": "Prod. Pan. Huacho PVH { A125-1-25122045 }"
+  },
+  {
+    "id_location": 34471049,
+    "code": "A125-1-25122056",
+    "description": "Prod. Pan. Cajamarca PVH { A125-1-25122056 }"
+  },
+  {
+    "id_location": 34471073,
+    "code": "A125-1-25122102",
+    "description": "Prod. Pan. Ilo PVH { A125-1-25122102 }"
+  },
+  {
+    "id_location": 34471074,
+    "code": "A125-1-25122128",
+    "description": "Prod. Pan. Sullana PVH { A125-1-25122128 }"
+  },
+  {
+    "id_location": 34471077,
+    "code": "A125-1-25124003",
+    "description": "Prod. Pan.  Dos de Mayo VIV { A125-1-25124003 }"
+  },
+  {
+    "id_location": 34471079,
+    "code": "A125-1-25124006",
+    "description": "Prod. Pan.  Javier Prado VIV { A125-1-25124006 }"
+  },
+  {
+    "id_location": 34565619,
+    "code": "A125-1-25110031",
+    "description": "NGR { A125-1-25110031 }"
+  },
+  {
+    "id_location": 34565621,
+    "code": "A125-1-25110032",
+    "description": "Fiambres y Quesos { A125-1-25110032 }"
+  },
+  {
+    "id_location": 34993576,
+    "code": "A125-1-25150410",
+    "description": "Gerencia CF { A125-1-25150410 }"
+  },
+  {
+    "id_location": 35389513,
+    "code": "A125-1-25102141",
+    "description": "Murgia - PVH { A125-1-25102141 }"
+  },
+  {
+    "id_location": 36375177,
+    "code": "A125-1-25142106",
+    "description": "Prod. Past. Tumbes PV { A125-1-25142106 }"
+  },
+  {
+    "id_location": 36541697,
+    "code": "A125-1-25208005",
+    "description": "Cortijo - JKR { A125-1-25208005 }"
+  },
+  {
+    "id_location": 36541699,
+    "code": "A125-1-25208002",
+    "description": "Higuereta - JKR { A125-1-25208002 }"
+  },
+  {
+    "id_location": 36541701,
+    "code": "A125-1-25208061",
+    "description": "Caminos del Inca - JKR { A125-1-25208061 }"
+  },
+  {
+    "id_location": 36541703,
+    "code": "A125-1-25208126",
+    "description": "Valle Hermoso - JKR { A125-1-25208126 }"
+  },
+  {
+    "id_location": 36541705,
+    "code": "A125-1-25208016",
+    "description": "Primavera - JKR { A125-1-25208016 }"
+  },
+  {
+    "id_location": 36541707,
+    "code": "A125-1-25208006",
+    "description": "Ayacucho - JKR { A125-1-25208006 }"
+  },
+  {
+    "id_location": 36541709,
+    "code": "A125-1-25208007",
+    "description": "Miraflores - JKR { A125-1-25208007 }"
+  },
+  {
+    "id_location": 36541711,
+    "code": "A125-1-25208053",
+    "description": "San Isidro - JKR { A125-1-25208053 }"
+  },
+  {
+    "id_location": 36541713,
+    "code": "A125-1-25208136",
+    "description": "San Miguel - JKR { A125-1-25208136 }"
+  },
+  {
+    "id_location": 36541715,
+    "code": "A125-1-25208099",
+    "description": "Sucre - JKR { A125-1-25208099 }"
+  },
+  {
+    "id_location": 36541717,
+    "code": "A125-1-25208008",
+    "description": "Dasso - JKR { A125-1-25208008 }"
+  },
+  {
+    "id_location": 37038751,
+    "code": "A124-1-24167028",
+    "description": "Tienda Virtual Surco - MK { A124-1-24167028 }"
+  },
+  {
+    "id_location": 37038753,
+    "code": "A124-1-24167027",
+    "description": "Tienda Virtual Santa Anita - MK { A124-1-24167027 }"
+  },
+  {
+    "id_location": 37038755,
+    "code": "A124-1-24167026",
+    "description": "Tienda Virtual Callao - MK { A124-1-24167026 }"
+  },
+  {
+    "id_location": 37038757,
+    "code": "A124-1-24167025",
+    "description": "Tienda Virtual Independencia - MK { A124-1-24167025 }"
+  },
+  {
+    "id_location": 37038759,
+    "code": "A124-1-24167019",
+    "description": "Tienda Virtual Cercado - MK { A124-1-24167019 }"
+  },
+  {
+    "id_location": 37038761,
+    "code": "A124-1-24167014",
+    "description": "Tienda Virtual Chorrillos - MK { A124-1-24167014 }"
+  },
+  {
+    "id_location": 37038763,
+    "code": "A124-1-24167004",
+    "description": "Tienda Virtual Zarate 2 - MK { A124-1-24167004 }"
+  },
+  {
+    "id_location": 37313832,
+    "code": "A125-1-25102142",
+    "description": "Chancay - PVH { A125-1-25102142 }"
+  },
+  {
+    "id_location": 37314112,
+    "code": "A124-1-24150190",
+    "description": "Riesgos & Control Interno { A124-1-24150190 }"
+  },
+  {
+    "id_location": 37314120,
+    "code": "A125-1-25150190",
+    "description": "Riesgos & Control Interno { A125-1-25150190 }"
+  },
+  {
+    "id_location": 37853403,
+    "code": "A125-1-25162078",
+    "description": "Tienda Virtual Lurin PVH { A125-1-25162078 }"
+  },
+  {
+    "id_location": 38082482,
+    "code": "A124-1-24167999",
+    "description": "BO Virtual Makro { A124-1-24167999 }"
+  },
+  {
+    "id_location": 38103070,
+    "code": "A125-1-25162013",
+    "description": "Tienda Virtual Los Olivos PVH { A125-1-25162013 }"
+  },
+  {
+    "id_location": 38103072,
+    "code": "A125-1-25162039",
+    "description": "Tienda Virtual Colonial PVH { A125-1-25162039 }"
+  },
+  {
+    "id_location": 38103074,
+    "code": "A125-1-25163006",
+    "description": "Tienda Virtual Ayacucho PVS { A125-1-25163006 }"
+  },
+  {
+    "id_location": 39432250,
+    "code": "A125-1-25102139",
+    "description": "Chacchi - PVH { A125-1-25102139 }"
+  },
+  {
+    "id_location": 39444556,
+    "code": "A124-1-24167030",
+    "description": "Tienda Virtual Chiclayo - MK { A124-1-24167030 }"
+  },
+  {
+    "id_location": 39444559,
+    "code": "A124-1-24167031",
+    "description": "Tienda Virtual Zarate - MK { A124-1-24167031 }"
+  },
+  {
+    "id_location": 39444561,
+    "code": "A124-1-24167033",
+    "description": "Tienda Virtual Piura - MK { A124-1-24167033 }"
+  },
+  {
+    "id_location": 39444563,
+    "code": "A124-1-24167042",
+    "description": "Tienda Virtual SMP - MK { A124-1-24167042 }"
+  },
+  {
+    "id_location": 39846123,
+    "code": "A125-1-25162028",
+    "description": "Tienda Virtual El Chacarero PVH { A125-1-25162028 }"
+  },
+  {
+    "id_location": 39899526,
+    "code": "A125-1-25102143",
+    "description": "Monterrico - PVH { A125-1-25102143 }"
+  },
+  {
+    "id_location": 40430136,
+    "code": "A124-1-24167007",
+    "description": "E-Tienda Arequipa 2 - MK { A124-1-24167007 }"
+  },
+  {
+    "id_location": 40435650,
+    "code": "A124-1-24167006",
+    "description": "E-Tienda Piura 2 - MK { A124-1-24167006 }"
+  },
+  {
+    "id_location": 40615314,
+    "code": "A124-1-24107995",
+    "description": "Retail Media - MK { A124-1-24107995 }"
+  },
+  {
+    "id_location": 40615319,
+    "code": "A125-1-25102995",
+    "description": "Retail Media - Pv { A125-1-25102995 }"
+  },
+  {
+    "id_location": 40615321,
+    "code": "A125-1-25104995",
+    "description": "Retail Media - Vivanda { A125-1-25104995 }"
+  },
+  {
+    "id_location": 41031698,
+    "code": "A125-1-25150001",
+    "description": "Gerencia General { A125-1-25150001 }"
+  },
+  {
+    "id_location": 41387679,
+    "code": "A125-1-25162127",
+    "description": "E-Tienda Ves Placita - PVH { A125-1-25162127 }"
+  },
+  {
+    "id_location": 41402864,
+    "code": "A125-1-25162088",
+    "description": "E-Tienda Ventanilla - PVH { A125-1-25162088 }"
+  },
+  {
+    "id_location": 41402889,
+    "code": "A125-1-25162006",
+    "description": "E-Tienda Callao - PVH { A125-1-25162006 }"
+  },
+  {
+    "id_location": 41402891,
+    "code": "A125-1-25162035",
+    "description": "E-Tienda El Agustino - PVH { A125-1-25162035 }"
+  },
+  {
+    "id_location": 41403224,
+    "code": "A125-1-25162011",
+    "description": "E-Tienda Risso - PVH { A125-1-25162011 }"
+  },
+  {
+    "id_location": 41506233,
+    "code": "A125-1-25162004",
+    "description": "E-Tienda Brasil - PVH { A125-1-25162004 }"
+  },
+  {
+    "id_location": 41506236,
+    "code": "A125-1-25162075",
+    "description": "E-Tienda Paita - PVH { A125-1-25162075 }"
+  },
+  {
+    "id_location": 41508165,
+    "code": "A125-1-25162045",
+    "description": "E-Tienda Huacho - PVH { A125-1-25162045 }"
+  },
+  {
+    "id_location": 41508168,
+    "code": "A125-1-25162069",
+    "description": "E-Tienda Huaral - PVH { A125-1-25162069 }"
+  },
+  {
+    "id_location": 41509394,
+    "code": "A125-1-25162102",
+    "description": "E-Tienda Ilo - PVH { A125-1-25162102 }"
+  },
+  {
+    "id_location": 41509426,
+    "code": "A125-1-25162128",
+    "description": "E-Tienda Sullana - PVH { A125-1-25162128 }"
+  },
+  {
+    "id_location": 41509514,
+    "code": "A125-1-25162050",
+    "description": "E-Tienda Chincha - PVH { A125-1-25162050 }"
+  },
+  {
+    "id_location": 41509653,
+    "code": "A125-1-25162097",
+    "description": "E-Tienda Moquegua - PVH { A125-1-25162097 }"
+  },
+  {
+    "id_location": 41511184,
+    "code": "A125-1-25162086",
+    "description": "E-Tienda Pisco - PVH { A125-1-25162086 }"
+  },
+  {
+    "id_location": 41511257,
+    "code": "A125-1-25162106",
+    "description": "E-Tienda Tumbes - PVH { A125-1-25162106 }"
+  },
+  {
+    "id_location": 41511452,
+    "code": "A125-1-25162084",
+    "description": "E-Tienda Barranca - PVH { A125-1-25162084 }"
+  },
+  {
+    "id_location": 41511454,
+    "code": "A125-1-25162042",
+    "description": "E-Tienda Chosica - PVH { A125-1-25162042 }"
+  },
+  {
+    "id_location": 41511957,
+    "code": "A125-1-25162044",
+    "description": "E-Tienda Juliaca - PVH { A125-1-25162044 }"
+  },
+  {
+    "id_location": 41512459,
+    "code": "A125-1-25162020",
+    "description": "E-Tienda Ceres - PVH { A125-1-25162020 }"
+  },
+  {
+    "id_location": 41512462,
+    "code": "A125-1-25162043",
+    "description": "E-Tienda Tacna - PVH { A125-1-25162043 }"
+  },
+  {
+    "id_location": 41512960,
+    "code": "A125-1-25162121",
+    "description": "E-Tienda Aventura SJL - PVH { A125-1-25162121 }"
+  },
+  {
+    "id_location": 41512986,
+    "code": "A125-1-25162026",
+    "description": "E-Tienda Puente Piedra - PVH { A125-1-25162026 }"
+  },
+  {
+    "id_location": 41513238,
+    "code": "A125-1-25162060",
+    "description": "E-Tienda Salaverry - PVH { A125-1-25162060 }"
+  },
+  {
+    "id_location": 41549724,
+    "code": "A125-1-25162038",
+    "description": "E-Tienda Centro Civico - PVH { A125-1-25162038 }"
+  },
+  {
+    "id_location": 41549744,
+    "code": "A125-1-25162037",
+    "description": "E-Tienda Guardia Civil - PVH { A125-1-25162037 }"
+  },
+  {
+    "id_location": 41560414,
+    "code": "A125-1-25162019",
+    "description": "E-Tienda Arequipa - PVH { A125-1-25162019 }"
+  },
+  {
+    "id_location": 41560516,
+    "code": "A125-1-25162009",
+    "description": "E-Tienda Bolichera - PVH { A125-1-25162009 }"
+  },
+  {
+    "id_location": 41564355,
+    "code": "A122-1-2262003",
+    "description": "E-Tienda Pucallpa - PVO { A122-1-2262003 }"
+  },
+  {
+    "id_location": 41564632,
+    "code": "A122-1-2262002",
+    "description": "E-Tienda Jaen - PVO { A122-1-2262002 }"
+  },
+  {
+    "id_location": 41564634,
+    "code": "A122-1-2262004",
+    "description": "E-Tienda Tarapoto - PVO { A122-1-2262004 }"
+  },
+  {
+    "id_location": 41564636,
+    "code": "A122-1-2262001",
+    "description": "E-Tienda Huanuco - PVO { A122-1-2262001 }"
+  },
+  {
+    "id_location": 41756984,
+    "code": "A124-1-24107047",
+    "description": "Parcona - MK { A124-1-24107047 }"
+  },
+  {
+    "id_location": 42298443,
+    "code": "A124-1-24SP-DUMMY",
+    "description": "24SP-DUMMY { A124-1-24SP-DUMMY }"
+  },
+  {
+    "id_location": 42298444,
+    "code": "A125-1-25SP-DUMMY",
+    "description": "25SP-DUMMY { A125-1-25SP-DUMMY }"
+  },
+  {
+    "id_location": 42298446,
+    "code": "A122-1-22SP-DUMMY",
+    "description": "22SP-DUMMY { A122-1-22SP-DUMMY }"
+  },
+  {
+    "id_location": 45142311,
+    "code": "A124-1-24167000",
+    "description": "E-commerce NF MK { A124-1-24167000 }"
+  },
+  {
+    "id_location": 46169308,
+    "code": "A124-1-24167005",
+    "description": "E-Tienda Cusco - MK { A124-1-24167005 }"
+  },
+  {
+    "id_location": 47640093,
+    "code": "A124-1-24150910",
+    "description": "EDIFICIO HO { A124-1-24150910 }"
+  },
+  {
+    "id_location": 48473091,
+    "code": "A124-1-24162999",
+    "description": "Back Office Virtual MK { A124-1-24162999 }"
+  },
+  {
+    "id_location": 48473093,
+    "code": "A125-1-25164999",
+    "description": "Back Office Virtual VV { A125-1-25164999 }"
+  },
+  {
+    "id_location": 48473094,
+    "code": "A122-1-22162999",
+    "description": "Back Office Virtual PVO { A122-1-22162999 }"
+  },
+  {
+    "id_location": 48750485,
+    "code": "A122-1-2262005",
+    "description": "E-Tienda Tarapoto 2 - PVO { A122-1-2262005 }"
+  },
+  {
+    "id_location": 49400355,
+    "code": "A124-1-24107045",
+    "description": "Sullana 3 - MK { A124-1-24107045 }"
+  },
+  {
+    "id_location": 49400390,
+    "code": "A125-1-25102131",
+    "description": "Collique - PVH { A125-1-25102131 }"
+  },
+  {
+    "id_location": 49575310,
+    "code": "A124-1-24107009",
+    "description": "Juliaca - MK { A124-1-24107009 }"
+  },
+  {
+    "id_location": 49639659,
+    "code": "A124-1-24107048",
+    "description": "Tacna - MK { A124-1-24107048 }"
+  },
+  {
+    "id_location": 51642948,
+    "code": "A124-1-24107015",
+    "description": "Rimac - MK { A124-1-24107015 }"
+  }
+]

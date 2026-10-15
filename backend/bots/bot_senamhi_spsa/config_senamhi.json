@@ -1,0 +1,29 @@
+{
+  "f_ini": "2026-09-25",
+  "f_fin": "2026-10-13",
+  "ventana_movil_dias": 7,
+  "parametros_activos": [
+    "viento_kmh",
+    "nivel_rio_m",
+    "caudal_m3s"
+  ],
+  "radio_km": 10,
+  "tipos_estacion": [
+    "meteorologica",
+    "hidrologica"
+  ],
+  "exportar_excel": true,
+  "carpeta_drive": "G:\\Mi unidad\\1.APLICACIONES\\Data variables climaticas\\SENAHMI",
+  "delay_seg": 0.2,
+  "reintentos": 3,
+  "modo_auto": "INTERVALO",
+  "intervalo_val": "24",
+  "intervalo_uni": "horas",
+  "hora1": "06:00",
+  "hora2": "12:00",
+  "hora3": "18:00",
+  "url_supabase": "https://zuouxnvcktjhqzlniion.supabase.co",
+  "key_supabase": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp1b3V4bnZja3RqaHF6bG5paW9uIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQwOTE2MTEsImV4cCI6MjA4OTY2NzYxMX0.DxgJzjJjkg7zGdg6c4IFX8oJg0QVs1Fw391KIhqxz84",
+  "fec_ini": "2025-06-01",
+  "fec_fin": "2026-08-15 14:04:10"
+}
