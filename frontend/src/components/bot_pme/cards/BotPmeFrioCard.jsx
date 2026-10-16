@@ -115,6 +115,35 @@ const BotPmeFrioCard = ({ bot, logs = [], isSelected, onSelectView, onStart, onS
     setShowConfig(false);
   };
 
+  const setPreset = (tipo) => {
+    const ahora = new Date();
+    if (tipo === 'mes_actual') {
+      const y = ahora.getFullYear();
+      const m = String(ahora.getMonth() + 1).padStart(2, '0');
+      const d = String(ahora.getDate()).padStart(2, '0');
+      setFechaInicioFija(`${y}-${m}-01`);
+      setFechaFinFija(`${y}-${m}-${d}`);
+    } else if (tipo === 'mes_anterior') {
+      const pMes = new Date(ahora.getFullYear(), ahora.getMonth() - 1, 1);
+      const uMes = new Date(ahora.getFullYear(), ahora.getMonth(), 0);
+      const y = pMes.getFullYear();
+      const m = String(pMes.getMonth() + 1).padStart(2, '0');
+      const dFin = String(uMes.getDate()).padStart(2, '0');
+      setFechaInicioFija(`${y}-${m}-01`);
+      setFechaFinFija(`${y}-${m}-${dFin}`);
+    } else if (tipo === 'ultimos_30') {
+      const hace30 = new Date(ahora.getTime() - 30 * 24 * 60 * 60 * 1000);
+      const y1 = hace30.getFullYear();
+      const m1 = String(hace30.getMonth() + 1).padStart(2, '0');
+      const d1 = String(hace30.getDate()).padStart(2, '0');
+      const y2 = ahora.getFullYear();
+      const m2 = String(ahora.getMonth() + 1).padStart(2, '0');
+      const d2 = String(ahora.getDate()).padStart(2, '0');
+      setFechaInicioFija(`${y1}-${m1}-${d1}`);
+      setFechaFinFija(`${y2}-${m2}-${d2}`);
+    }
+  };
+
   const agregacionLabel = AGREGACION_OPCIONES.find(o => o.id === agregacion)?.label || 'Por hora';
 
   return (
@@ -320,19 +349,54 @@ const BotPmeFrioCard = ({ bot, logs = [], isSelected, onSelectView, onStart, onS
                 Para rellenar un período histórico específico (ej. comparar julio-agosto) que el intervalo móvil de
                 arriba nunca cubrió. Es una corrida única — no cambia el intervalo configurado.
               </p>
+              {/* Atajos rapidos de calendario */}
+              <div style={{ display: 'flex', gap: '0.4rem', marginBottom: '0.6rem' }}>
+                <button
+                  type="button"
+                  onClick={() => setPreset('mes_actual')}
+                  style={{ flex: 1, padding: '0.35rem 0.2rem', fontSize: '0.72rem', borderRadius: '4px', border: '1px solid #334155', background: '#1e293b', color: '#94a3b8', cursor: 'pointer', fontWeight: 500 }}
+                >
+                  📅 Mes actual
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setPreset('mes_anterior')}
+                  style={{ flex: 1, padding: '0.35rem 0.2rem', fontSize: '0.72rem', borderRadius: '4px', border: '1px solid #334155', background: '#1e293b', color: '#94a3b8', cursor: 'pointer', fontWeight: 500 }}
+                >
+                  📅 Mes anterior
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setPreset('ultimos_30')}
+                  style={{ flex: 1, padding: '0.35rem 0.2rem', fontSize: '0.72rem', borderRadius: '4px', border: '1px solid #334155', background: '#1e293b', color: '#94a3b8', cursor: 'pointer', fontWeight: 500 }}
+                >
+                  📅 Últimos 30 días
+                </button>
+              </div>
+
               <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '0.6rem' }}>
                 <div style={{ flex: 1 }}>
-                  <label style={{ fontSize: '0.7rem', color: '#94a3b8', display: 'block', marginBottom: '0.25rem' }}>Fecha inicio</label>
+                  <label style={{ fontSize: '0.7rem', color: '#94a3b8', display: 'block', marginBottom: '0.25rem' }}>Fecha inicio 📅</label>
                   <input
-                    type="date" value={fechaInicioFija} onChange={e => setFechaInicioFija(e.target.value)}
-                    style={{ width: '100%', padding: '0.45rem', borderRadius: '6px', border: '1px solid #475569', background: '#0f172a', color: '#cbd5e1', fontSize: '0.8rem' }}
+                    type="date"
+                    value={fechaInicioFija}
+                    onChange={e => setFechaInicioFija(e.target.value)}
+                    onClick={(e) => { try { e.target.showPicker(); } catch (_) {} }}
+                    min="2020-01-01"
+                    max="2099-12-31"
+                    style={{ width: '100%', padding: '0.45rem', borderRadius: '6px', border: '1px solid #475569', background: '#0f172a', color: '#cbd5e1', fontSize: '0.8rem', cursor: 'pointer', colorScheme: 'dark' }}
                   />
                 </div>
                 <div style={{ flex: 1 }}>
-                  <label style={{ fontSize: '0.7rem', color: '#94a3b8', display: 'block', marginBottom: '0.25rem' }}>Fecha fin</label>
+                  <label style={{ fontSize: '0.7rem', color: '#94a3b8', display: 'block', marginBottom: '0.25rem' }}>Fecha fin 📅</label>
                   <input
-                    type="date" value={fechaFinFija} onChange={e => setFechaFinFija(e.target.value)}
-                    style={{ width: '100%', padding: '0.45rem', borderRadius: '6px', border: '1px solid #475569', background: '#0f172a', color: '#cbd5e1', fontSize: '0.8rem' }}
+                    type="date"
+                    value={fechaFinFija}
+                    onChange={e => setFechaFinFija(e.target.value)}
+                    onClick={(e) => { try { e.target.showPicker(); } catch (_) {} }}
+                    min="2020-01-01"
+                    max="2099-12-31"
+                    style={{ width: '100%', padding: '0.45rem', borderRadius: '6px', border: '1px solid #475569', background: '#0f172a', color: '#cbd5e1', fontSize: '0.8rem', cursor: 'pointer', colorScheme: 'dark' }}
                   />
                 </div>
               </div>
