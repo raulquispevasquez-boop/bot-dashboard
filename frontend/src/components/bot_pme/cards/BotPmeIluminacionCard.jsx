@@ -102,7 +102,13 @@ const BotPmeIluminacionCard = ({ bot, logs = [], isSelected, onSelectView, onSta
 
   const descargarRangoFijo = () => {
     if (!fechaInicioFija || !fechaFinFija || !socket) return;
-    if (fechaInicioFija > fechaFinFija) {
+    const tInicio = new Date(fechaInicioFija).getTime();
+    const tFin = new Date(fechaFinFija).getTime();
+    if (isNaN(tInicio) || isNaN(tFin)) {
+      window.alert('Por favor, ingresa fechas válidas (año de 4 dígitos, ej: 2026).');
+      return;
+    }
+    if (tInicio > tFin) {
       window.alert('La fecha de inicio no puede ser posterior a la fecha de fin.');
       return;
     }
