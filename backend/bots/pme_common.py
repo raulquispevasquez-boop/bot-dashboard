@@ -232,27 +232,62 @@ def obtener_datos_gadget(session, gadget_id, dias_historico=None, aggregation_id
     historico que el bot nunca cubrio con su ventana movil normal), no
     para las corridas automaticas recurrentes.
     """
-    params = {}
-    if fecha_inicio and fecha_fin:
-        fecha_fin_exclusiva = (datetime.strptime(fecha_fin, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
-        params['ViewingPeriodOne'] = f"from {fecha_inicio} to {fecha_fin_exclusiva}"
-        params['AggregationId'] = aggregation_id or AGGREGATION_HORARIA
-    elif dias_historico is not None:
-        offset_dias = max(0, int(dias_historico) - 1)
-        params['ViewingPeriodOne'] = f"from {offset_dias} days ago to now"
-        params['AggregationId'] = aggregation_id or AGGREGATION_HORARIA
+    def _ejecutar_peticion(vp):
+        p = {'ViewingPeriodOne': vp, 'AggregationId': aggregation_id or AGGREGATION_HORARIA}
+        for intento in range(reintentos + 1):
+            try:
+                r = session.get(f"{BASE_URL}/Dashboards/data/gadget/{gadget_id}-data", params=p, timeout=25)
+                return get_json_latin1(r)
+            except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as e:
+                if intento < reintentos:
+                    log(f"  ↻ Reintentando ({intento + 1}/{reintentos}) tras corte de conexión...")
+                    time.sleep(espera_reintento)
+                else:
+                    raise e
 
-    ultimo_error = None
-    for intento in range(reintentos + 1):
-        try:
-            r = session.get(f"{BASE_URL}/Dashboards/data/gadget/{gadget_id}-data", params=params, timeout=20)
-            return get_json_latin1(r)
-        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as e:
-            ultimo_error = e
-            if intento < reintentos:
-                log(f"  ↻ Reintentando ({intento + 1}/{reintentos}) tras corte de conexión...")
-                time.sleep(espera_reintento)
-    raise ultimo_error
+    if fecha_inicio and fecha_fin:
+        d_ini = datetime.strptime(fecha_inicio, "%Y-%m-%d").date()
+        d_fin = datetime.strptime(fecha_fin, "%Y-%m-%d").date()
+        dias_total = (d_fin - d_ini).days + 1
+
+        # Schneider PME vacía respuestas si el período pedido excede los ~31 días en agregación horaria.
+        # Si el rango es mayor a 30 días, lo dividimos en bloques de hasta 30 días y concatenamos los DataPoints.
+        if dias_total > 30:
+            resultado_combinado = None
+            puntos_totales = []
+            curr_ini = d_ini
+            while curr_ini <= d_fin:
+                curr_fin = min(curr_ini + timedelta(days=29), d_fin)
+                s_ini = curr_ini.strftime("%Y-%m-%d")
+                s_fin_exclusiva = (curr_fin + timedelta(days=1)).strftime("%Y-%m-%d")
+                vp = f"from {s_ini} to {s_fin_exclusiva}"
+                chunk_data = _ejecutar_peticion(vp)
+                if resultado_combinado is None:
+                    resultado_combinado = chunk_data
+                pts = (chunk_data.get("ChartingData") or {}).get("DataPoints") or []
+                puntos_totales.extend(pts)
+                curr_ini = curr_fin + timedelta(days=1)
+
+            if resultado_combinado and "ChartingData" in resultado_combinado:
+                resultado_combinado["ChartingData"]["DataPoints"] = puntos_totales
+            return resultado_combinado or {}
+        else:
+            fecha_fin_exclusiva = (d_fin + timedelta(days=1)).strftime("%Y-%m-%d")
+            return _ejecutar_peticion(f"from {fecha_inicio} to {fecha_fin_exclusiva}")
+
+    elif dias_historico is not None:
+        if int(dias_historico) > 30:
+            d_fin = datetime.now().date()
+            d_ini = d_fin - timedelta(days=int(dias_historico) - 1)
+            return obtener_datos_gadget(
+                session, gadget_id, aggregation_id=aggregation_id,
+                reintentos=reintentos, espera_reintento=espera_reintento,
+                fecha_inicio=d_ini.strftime("%Y-%m-%d"), fecha_fin=d_fin.strftime("%Y-%m-%d")
+            )
+        offset_dias = max(0, int(dias_historico) - 1)
+        return _ejecutar_peticion(f"from {offset_dias} days ago to now")
+    else:
+        return _ejecutar_peticion("from 6 days ago to now")
 
 
 def cargar_config_telegram():
@@ -4714,15 +4749,22 @@ def calcular_comparacion_corte_parcial(tabla, sede, umbral_pct=20):
         "Accept-Profile": "energia",
     }
     try:
-        r = requests.get(
-            f"{SUPABASE_URL}/rest/v1/{tabla}",
-            params={"select": "fecha,hora,valor", "sede": f"eq.{sede}", "order": "fecha.desc", "limit": "2000"},
-            headers=headers,
-            timeout=20
-        )
-        if r.status_code != 200:
+        filas = None
+        for _intento in range(2):
+            try:
+                r = requests.get(
+                    f"{SUPABASE_URL}/rest/v1/{tabla}",
+                    params={"select": "fecha,hora,valor", "sede": f"eq.{sede}", "order": "fecha.desc", "limit": "2000"},
+                    headers=headers,
+                    timeout=30
+                )
+                if r.status_code == 200:
+                    filas = r.json()
+                    break
+            except Exception:
+                time.sleep(2)
+        if not filas:
             return None
-        filas = r.json()
     except Exception as e:
         log(f"⚠️ No se pudo calcular el corte parcial semanal de {sede}: {e}")
         return None
